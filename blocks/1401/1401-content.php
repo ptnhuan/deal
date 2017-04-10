@@ -12,6 +12,156 @@
 ?>
 
 <div class="type-1401">
-   
-
+	<div style="height: 50px;"></div>
+	<div class="top-menu">
+		<div class="container">
+  			<nav class="navbar ">
+		      	<div class="navbar-header">
+			        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-top-menu">
+			            <span class="icon-bar"></span>
+			            <span class="icon-bar"></span>
+			            <span class="icon-bar"></span>
+			        </button>
+			    </div>
+		        <div id="nav-top-menu" class="navbar-collapse collapse menu-content">
+			        <ul class="nav navbar-nav">
+			            <li class="active"><a href="#">Home</a></li>
+			            <li class="dropdown-mega-menu">
+			          		<a href="#">Deals<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
+			          		<div class="mega-menu">
+	                            <div class="row">
+	                                <div class="col-md-3">
+	                                    <ul class="list-unstyled">
+	                                       	<li><a href="#">Grid View</a></li>
+	                                        <li><a href="#">Grid With Sidebar</a></li>
+	                                        <li><a href="#">List View</a></li>
+	                                        <li><a href="#">Deal Single</a></li>
+	                                    </ul>
+	                                </div>
+	                                <div class="col-md-3">
+	                                    
+	                                </div>
+	                                <div class="col-md-3">
+	                                    
+	                                </div>
+	                                <div class="col-md-3">
+	                                    
+	                                </div>
+	                            </div>
+	                        </div>
+			          	</li>
+			          	<li>
+			          		<a href="#">Coupons<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
+			          		<ul class="sub-menu list-unstyled">
+				                <li><a href="#">Grid View</a></li>
+				                <li><a href="#">Grid With Sidebar</a></li>
+				                <li><a href="#">List View</a></li>
+				            </ul>
+			          	</li>
+			          	<li>
+			          		<a href="#">Stores<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
+			          		<ul class="sub-menu list-unstyled">
+				                <li><a href="#">Stores Search</a></li>
+				                <li><a href="#">Stores Categories</a></li>
+				                <li><a href="#">Store Single 1</a></li>
+				                <li><a href="#">Store Single 2</a></li>
+				            </ul>
+			          	</li>
+			          	<li>
+			          		<a href="#">Contact Us<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
+			          		<ul class="sub-menu list-unstyled">
+				                <li><a href="#">Contact Us 1</a></li>
+				                <li><a href="#">Contact Us 2</a></li>
+				            </ul>
+			          	</li>
+			          	<li>
+			          		<a href="#">Blog<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
+			          		<ul class="sub-menu list-unstyled">
+				                <li>
+				                	<a href="#">Classic View<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+				                	<ul class="list-unstyled">
+						                <li><a href="#">Right Sidenar</a></li>
+						                <li><a href="#">Left Sidebar</a></li>
+						                <li><a href="#">Full Width</a></li>
+						            </ul>
+				                </li>
+				                <li>
+				                	<a href="#">Grid View<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+				                	<ul class="list-unstyled">
+						                <li><a href="#">3 Columns</a></li>
+						                <li><a href="#">2 Columns</a></li>
+						                <li><a href="#">Right Sidebar</a></li>
+						            </ul>
+				                </li>
+				                <li>
+				                	<a href="#">List View<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+				                	<ul class="list-unstyled">
+						                <li><a href="#">Right Sidenar</a></li>
+						                <li><a href="#">Left Sidebar</a></li>
+						                <li><a href="#">Full Width</a></li>
+						            </ul>
+				                </li>
+				                <li>
+				                	<a href="#">Blog Single<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+				                	<ul class="list-unstyled">
+						                <li><a href="#">Standard Post</a></li>
+						                <li><a href="#">Gallery Post</a></li>
+						                <li><a href="#">Youtube Video</a></li>
+						                <li><a href="#">Vimeo Video</a></li>
+						                <li><a href="#">Google Map</a></li>
+						                <li><a href="#">Quote Post</a></li>
+						                <li><a href="#">Audio Post</a></li>
+						            </ul>
+				                </li>
+				            </ul>
+			          	</li>
+			          	<li>
+			          		<a href="#">Pages<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
+			          		<ul class="sub-menu list-unstyled">
+				                <li><a href="#">Home Default</a></li>
+				                <li><a href="#">Sign In</a></li>
+				                <li><a href="#">Sign Up</a></li>
+				                <li><a href="#">404 Page</a></li>
+				                <li><a href="#">FAQ Page</a></li>
+				                <li><a href="#">Cart Page</a></li>
+				                <li>
+				                	<a href="#">Checkout<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+				                	<ul class="list-unstyled">
+						                <li><a href="#">Checkout method</a></li>
+						                <li><a href="#">Billing Information</a></li>
+						                <li><a href="#">Payment Information</a></li>
+						            </ul>
+				                </li>
+				                <li>
+				                	<a href="#">Contact Us<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+				                	<ul class="list-unstyled">
+						                <li><a href="#">Contact Us 1</a></li>
+						                <li><a href="#">Contact Us 2</a></li>
+						            </ul>
+				                </li>
+				                <li>
+				                	<a href="#">Deals Pages<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+				                	<ul class="list-unstyled">
+						                <li><a href="#">Grid View</a></li>
+						                <li><a href="#">List View</a></li>
+						                <li><a href="#">Deal Single</a></li>
+						            </ul>
+				                </li>
+				                <li>
+				                	<a href="#">Coupons Pages<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+				                	<ul class="list-unstyled">
+						                <li><a href="#">Grid View</a></li>
+						                <li><a href="#">Grid With Sidebar</a></li>
+						                <li><a href="#">List View</a></li>
+						            </ul>
+				                </li>
+				                <li><a href="#">Terms & conditions</a></li>
+				            </ul>
+			          	</li>
+			        </ul>
+		        </div>
+		        <!--/.nav-collapse -->
+			</nav>
+		</div>
+	</div>
 </div>

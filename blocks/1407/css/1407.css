@@ -1,0 +1,110 @@
+.type-1407 {
+  font-family: 'Montserrat', sans-serif;
+  border: none;
+  height: auto;
+}
+.type-1407 .stores-area {
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.type-1407 .stores-area header {
+  padding: 15px 20px !important;
+  position: relative !important;
+  margin-bottom: 30px !important;
+  border: 0px solid transparent !important;
+}
+.type-1407 .stores-area header .section-title {
+  font-size: 18px !important;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 1.4;
+}
+.type-1407 .stores-area header .btn-stores:hover {
+  color: #fff;
+  background-color: #2ed87b;
+  -webkit-transition: all 400ms linear 0ms;
+  -ms-transition: all 400ms linear 0ms;
+  -o-transition: all 400ms linear 0ms;
+  transition: all 400ms linear 0ms;
+}
+.type-1407 .stores-area header .btn-stores {
+  border-color: #2ed87b !important;
+  color: #2ed87b;
+  background-color: transparent;
+  height: 28px;
+  padding: 2px 10px;
+  font-size: 10px;
+  line-height: 20px;
+  border-radius: 3px;
+  top: 50%;
+  position: absolute !important;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  overflow: hidden;
+  right: 10px !important;
+  border: 2px solid transparent;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -0-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  transition: all 400ms linear 0ms;
+  -webkit-transition: all 400ms linear 0ms;
+  -ms-transition: all 400ms linear 0ms;
+  -o-transition: all 400ms linear 0ms;
+  -moz-transition: all 400ms linear 0ms;
+}
+.type-1407 .stores-area .brand .item-brand {
+  text-align: center !important;
+}
+.type-1407 .stores-area .brand .item-brand .panel {
+  border-radius: 3px;
+  overflow: hidden;
+  text-decoration: none;
+  border: 0;
+  margin: 0px;
+  box-shadow: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+}
+.type-1407 .stores-area .brand .item-brand .is-block {
+  display: block !important;
+}
+.type-1407 .stores-area .brand .item-brand .brand-responsive {
+  position: relative;
+  display: block;
+  padding: 0;
+  padding-bottom: 75%;
+  overflow: hidden;
+}
+.type-1407 .stores-area .brand .item-brand .brand-responsive .store-logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  -moz-transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  -o-transform: translate(-50%,-50%);
+}
+.type-1407 .stores-area .brand .item-brand .store-name {
+  color: #333;
+  display: block;
+  font-size: 14px;
+  line-height: 1.4;
+  font-weight: 400;
+  padding: 10px 0;
+  margin: 0;
+  border-top: 1px solid #f1f1f1;
+  background-color: #f7f8f9;
+}
+.type-1407 .stores-area .brand .item-brand a:hover {
+  text-decoration: none;
+}
+.type-1407 .stores-area .brand .item-brand a:hover .store-name {
+  color: #2ed87b;
+}

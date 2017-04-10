@@ -1,9 +1,222 @@
 .type-1406{  
-    font-family: PT Serif;
+    font-family: 'Montserrat', sans-serif;
     border: none;
     height: auto;
-    @color_icon: #D0021B;
-    @color_bg: #000;   
-    @color_write: #fff;
+    @color_icon: #2ed87b; 
+    @color_write: #314555;
     
+
+    .latest-coupons-area {
+    	padding-top: 30px !important;
+    	padding-bottom: 30px !important;
+    	position: relative;
+	    background-size: cover;
+	    background-position: center;
+    	background-repeat: no-repeat;
+
+    	header {
+    		padding: 15px 20px!important;
+    		position: relative !important;
+    		margin-bottom: 30px !important;
+    		border: 0px solid transparent!important;
+
+    		.section-title {
+    			font-size: 18px !important;
+    			margin-top: 0px;
+    			margin-bottom: 0px;
+    			line-height: 1.4;
+    		}
+    		.btn-stores:hover {
+    			color: #fff;
+    			background-color: @color_icon;
+    			-webkit-transition: all 400ms linear 0ms;
+                -ms-transition: all 400ms linear 0ms;
+                -o-transition: all 400ms linear 0ms;
+                transition: all 400ms linear 0ms;
+    		}
+    		.btn-stores {
+    			border-color: @color_icon!important;
+    			color: @color_icon;
+    			background-color: transparent;
+    			height: 28px;
+			    padding: 2px 10px;
+			    font-size: 10px;
+			    line-height: 20px;
+			    border-radius: 3px;
+			    top: 50%;
+			    position: absolute !important;
+			    text-transform: uppercase;
+			    letter-spacing: 1px;
+			    overflow: hidden;
+			    right: 10px !important;
+			    border: 2px solid transparent;
+			    transform: translateY(-50%);
+			    -webkit-transform: translateY(-50%);
+			    -0-transform: translateY(-50%);
+			    -ms-transform: translateY(-50%);
+			    -moz-transform: translateY(-50%);
+			    transition: all 400ms linear 0ms;
+    			-webkit-transition: all 400ms linear 0ms;
+                -ms-transition: all 400ms linear 0ms;
+                -o-transition: all 400ms linear 0ms;
+                -moz-transition: all 400ms linear 0ms;
+    		}
+    	}
+    	.coupon {
+    		.coupon-single {
+			    position: relative;
+			    text-align: center !important;
+
+			    .ribbon-wrapper {
+				    position: absolute;
+				    top: 0;
+				    right: 0;
+				    overflow: hidden;
+				    width: 80px;
+				    height: 85px;
+
+				    .ribbon {
+				    	z-index: 2;
+				    	color: #fff;
+					    top: 17px;
+					    left: -8px;
+					    padding: 1px;
+					    width: 120px;
+					    font-size: 10px;
+					    position: relative;
+					    text-align: center;
+					    background-color: #ff3100;
+					    text-transform: uppercase;
+					    -o-transform: rotate(45deg);
+					    -ms-transform: rotate(45deg);
+					    -moz-transform: rotate(45deg);
+					    -webkit-transform: rotate(45deg);
+					}
+				}
+				.p-20 {
+					padding: 20px;
+				}
+				.store-logo {
+    				width: 100%;
+    				display: block;
+				}
+				.color-muted {
+				    color: #97a4ad !important;
+				}
+				.sale-off {
+					text-transform: uppercase;
+					color: @color_icon !important;
+					margin-bottom: 10px !important;
+				}
+				.deal-title {
+					margin: 0;
+					display: block;
+					font-size: 16px;
+				    line-height: 1.4;
+				    font-weight: 400;
+				   
+				   a {
+				   		text-decoration: none;
+				   		color: @color_write;
+				   		-webkit-transition: all 500ms linear 0ms;
+		                -ms-transition: all 500ms linear 0ms;
+		                -o-transition: all 500ms linear 0ms;
+		                transition: all 500ms linear 0ms;
+				   }
+				   a:hover {
+				   		text-decoration: none;
+				   		color: #26cc71;
+				   		-webkit-transition: all 500ms linear 0ms;
+		                -ms-transition: all 500ms linear 0ms;
+		                -o-transition: all 500ms linear 0ms;
+		                transition: all 500ms linear 0ms;
+					}
+				}
+				@media (max-width: 1200px) {
+					.deal-title { 
+						font-size: 15px!important;
+					}
+				}
+				@media (max-width: 992px) {
+					.deal-title { 
+						font-size: 15px!important;
+					}
+				}
+				.date {
+				    color: #97a4ad !important;
+				    font-size: 12px !important;
+				    margin-bottom: 20px !important;
+				}
+				.showcode {
+					z-index: 1;
+				    position: relative;
+
+				    .show-code {
+					    top: 0;
+					    left: 0;
+    					color: #fff;
+    					height: 34px;
+					    font-size: 12px;
+					    line-height: 20px;
+					    padding: 5px 15px;
+					    position: absolute;
+					    border-radius: 3px;
+					    text-transform: uppercase;
+					    background-color: @color_icon;
+					    -webkit-transition: all 500ms linear 0ms;
+		                -ms-transition: all 500ms linear 0ms;
+		                -o-transition: all 500ms linear 0ms;
+		                transition: all 500ms linear 0ms;
+					}
+				}
+				.showcode:hover {
+					.show-code {
+						width: 80%;
+						-webkit-transition: all 500ms linear 0ms;
+		                -ms-transition: all 500ms linear 0ms;
+		                -o-transition: all 500ms linear 0ms;
+		                transition: all 500ms linear 0ms;
+					}
+				}
+				.coupon-hide {
+				    color: #F50;
+				    width: 100%;
+				    height: 34px;
+				    display: block;
+				    padding: 0 15px;
+				    font-size: 15px;
+				    text-align: right;
+				    line-height: 34px;
+				    border-radius: 3px;
+				    letter-spacing: 1px;
+				    text-transform: uppercase;
+				    background: repeating-linear-gradient(45deg, transparent, transparent 10px, #eee 10px, #eee 20px), linear-gradient(to bottom, #c2ead4, #c2ead4);
+				}
+				.mb-10 {
+					margin-bottom: 10px !important;
+				}
+				.mr-5 {
+				    margin-right: 5px !important;
+				}
+				.mr-10 {
+				    margin-right: 10px !important;
+				}
+				.color-green {
+				    color: @color_icon !important;
+				}
+				.color-muted {
+					color: #97a4ad !important;
+				}
+			}
+			.panel {
+    			border: 0;
+			    overflow: hidden;
+			    box-shadow: none;
+			    border-radius: 3px;
+			    -moz-box-shadow: none;
+			    -webkit-box-shadow: none;
+			}
+    	}
+    	
+    }
 }

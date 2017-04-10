@@ -1,9 +1,78 @@
 .type-1409{  
-    font-family: PT Serif;
+    font-family: 'Montserrat', sans-serif;
     border: none;
     height: auto;
-    @color_icon: #D0021B;
-    @color_bg: #000;   
-    @color_write: #fff;
+    @color_icon: #2ed87b; 
+    @font-size: 12px; 
     
+    .subscribe-area {
+    	position: relative;
+	    background-size: cover;
+	    background-position: center;
+	    background-repeat: no-repeat;
+	    text-align: center !important;
+	    padding-top: 40px !important;
+    	padding-bottom: 40px !important;
+
+    	.newsletter-form {
+		    max-width: 480px;
+		    margin: 25px auto 0;
+
+		    h4 {
+		    	margin-bottom: 20px !important;
+		    	font-size: 18px;
+		    	display: block;
+			    line-height: 1.4;
+			    font-weight: 400;
+			    margin: 0;
+		    }
+		    i {
+		    	margin-right: 10px !important;
+		    	color: @color_icon !important;
+		    }
+		    p {
+		    	color: #717f86 !important;
+		    	margin-bottom: 20px !important;
+		    	font-weight: 600;
+    			text-shadow: none;
+		    }
+		    .input-group {
+		    	margin-bottom: 10px !important;
+
+		    	.form-control {
+				    height: 40px;
+				    padding: 8px 12px;
+				    font-size: @font-size;
+				    line-height: 20px;
+				    background-color: #fff !important;
+				    border: 2px solid @color_icon;
+				    border-radius: 3px;
+				    -webkit-box-shadow: none;
+				    box-shadow: none;
+				    -webkit-transition: all ease-in-out 150ms;
+				    -ms-transition: all ease-in-out 150ms;
+				    -o-transition: all ease-in-out 150ms;
+				    transition: all ease-in-out 150ms;
+				}
+				.btn {
+					margin-left: -2px;
+				    background-color: @color_icon;
+				    color: #fff;
+				    height: 40px;
+				    padding: 8px 20px;
+				    border: 2px solid transparent;
+				    font-size: @font-size;
+				    line-height: 20px;
+				    border-radius: 3px;
+				    text-transform: uppercase;
+				    letter-spacing: 1px;
+				    overflow: hidden;
+				}
+		    }
+		    .small {
+				color: #97a4ad !important;
+				margin-bottom: 0px !important;
+			}
+		}
+    }
 }

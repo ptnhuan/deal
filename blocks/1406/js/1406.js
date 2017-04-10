@@ -1,0 +1,23 @@
+$('.owl-carousel-coupon').owlCarousel({
+    loop:true,
+    margin:20,
+    loop:true,
+    autoplay:true,
+    autoplayTimeout:4500,
+    nav:true,
+    navText: false,
+    responsive:{
+        0:{
+            items:1
+        },
+        480:{
+            items:2
+        },
+        992:{
+            items:3
+        },
+        1200:{
+            items:4
+        }
+    }
+})

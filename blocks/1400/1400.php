@@ -5,6 +5,8 @@
     <title></title>
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
     <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+    <link href="css/linearicons.css" rel="stylesheet" type="text/css"/>
+    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <?php
     if (!class_exists('lessc')) {
         include ('./libs/lessc.inc.php');
@@ -17,7 +19,7 @@
     <script src="js/bootstrap.min.js" type="text/javascript"></script>
 
 </head>
-<body>
+<body style="background: rgb(233,235,238)">
     <?php include './1400-content.php'; ?>
 </body>
 </html>

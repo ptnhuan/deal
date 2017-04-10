@@ -1,0 +1,62 @@
+.type-1404 {
+  font-family: 'Montserrat', sans-serif;
+  border: none;
+  height: auto;
+}
+.type-1404 .explain-process-area {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+}
+.type-1404 .explain-process-area .row-rl-10 {
+  margin-right: -10px;
+  margin-left: -10px;
+}
+.type-1404 .explain-process-area .row-pd-rl-10 {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+.type-1404 .explain-process-area .panel {
+  border-radius: 3px;
+  overflow: hidden;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: 0;
+  padding: 20px 15px !important;
+  margin-bottom: 0px;
+}
+.type-1404 .explain-process-area .panel .panel-content {
+  float: none;
+  display: table-cell;
+  vertical-align: middle;
+}
+.type-1404 .explain-process-area .panel .row-rl-5 {
+  margin-right: -5px;
+  margin-left: -5px;
+}
+.type-1404 .explain-process-area .panel .row-xs-cell {
+  display: table;
+  width: 100%;
+}
+.type-1404 .explain-process-area .panel .valign-middle {
+  vertical-align: middle !important;
+  float: none;
+  display: table-cell;
+}
+.type-1404 .explain-process-area .panel .valign-middle img {
+  display: inline-block;
+  max-width: 100%;
+  height: auto;
+  padding-right: 10px !important;
+}
+.type-1404 .explain-process-area .panel h5 {
+  font-size: 16px;
+  margin-bottom: 10px !important;
+  padding-top: 5px !important;
+}
+.type-1404 .explain-process-area .panel .color-mid {
+  color: #717f86 !important;
+}
