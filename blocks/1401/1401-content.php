@@ -39,14 +39,62 @@
 	                                    </ul>
 	                                </div>
 	                                <div class="col-md-3">
-	                                    
-	                                </div>
+                                        <figure class="deal-thumbnail embed-responsive embed-responsive-4by3" data-bg-img="images/deal_03.jpg" style="background-image: url(images/deal_03.jpg);">
+                                            <div class="label-discount">-15%</div>
+                                            <div class="deal-about">
+                                                <div class="rating">
+                                                    <span class="rating-stars" data-rating="2">
+								                        <i class="fa fa-star-o"></i>
+								                        <i class="fa fa-star-o"></i>
+								                        <i class="fa fa-star-o"></i>
+								                        <i class="fa fa-star-o star-active"></i>
+								                        <i class="fa fa-star-o"></i>
+								                    </span>
+                                                </div>
+                                                <h6 class="deal-title">
+								                    <a href="#" class="color-lighter">Aenean ut orci vel massa</a>
+								                </h6>
+                                            </div>
+                                        </figure>
+                                    </div>
 	                                <div class="col-md-3">
-	                                    
-	                                </div>
-	                                <div class="col-md-3">
-	                                    
-	                                </div>
+                                        <figure class="deal-thumbnail embed-responsive embed-responsive-4by3" data-bg-img="images/deal_04.jpg" style="background-image: url(images/deal_04.jpg);">
+                                            <div class="label-discount">-15%</div>
+                                            <div class="deal-about">
+                                                <div class="rating">
+                                                    <span class="rating-stars" data-rating="2">
+								                        <i class="fa fa-star-o"></i>
+								                        <i class="fa fa-star-o"></i>
+								                        <i class="fa fa-star-o"></i>
+								                        <i class="fa fa-star-o star-active"></i>
+								                        <i class="fa fa-star-o"></i>
+								                    </span>
+                                                </div>
+                                                <h6 class="deal-title">
+								                    <a href="#" class="color-lighter">Aenean ut orci vel massa</a>
+								                </h6>
+                                            </div>
+                                        </figure>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <figure class="deal-thumbnail embed-responsive embed-responsive-4by3" data-bg-img="images/deal_03.jpg" style="background-image: url(images/deal_05.jpg);">
+                                            <div class="label-discount">-15%</div>
+                                            <div class="deal-about">
+                                                <div class="rating">
+                                                    <span class="rating-stars" data-rating="2">
+								                        <i class="fa fa-star-o"></i>
+								                        <i class="fa fa-star-o"></i>
+								                        <i class="fa fa-star-o"></i>
+								                        <i class="fa fa-star-o star-active"></i>
+								                        <i class="fa fa-star-o"></i>
+								                    </span>
+                                                </div>
+                                                <h6 class="deal-title">
+								                    <a href="#" class="color-lighter">Aenean ut orci vel massa</a>
+								                </h6>
+                                            </div>
+                                        </figure>
+                                    </div>
 	                            </div>
 	                        </div>
 			          	</li>

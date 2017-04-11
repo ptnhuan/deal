@@ -11,6 +11,6 @@
     $url_path = $url_host . $matches[1][0];
 ?>
 
-<div class="type-1411">
+<div class="type-1417">
 	
 </div>

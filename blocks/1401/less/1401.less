@@ -35,6 +35,10 @@
 			    margin: 0;
 			    position: relative;
     			line-height: 60px;
+    			transition: all 1s ease 0s;
+			    -webkit-transition: all 1s ease 0s;
+			    -moz-transition: all 1s ease 0s;
+			    -o-transition: all 1s ease 0s;
     		}
     		a:hover {
     			background-color: @color_active;
@@ -85,6 +89,93 @@
 			    }
 			}
 		}
+		.mega-menu {
+			a {
+				height: 25px;
+    			line-height: 30px;
+    			display: block;
+		    	color: @color_sub_menu;
+		    	transition: all 0.7s ease 0s;
+			    -webkit-transition: all 0.7s ease 0s;
+			    -moz-transition: all 0.7s ease 0s;
+			    -o-transition: all 0.7s ease 0s;
+			}
+			li:hover {
+				a {
+		    		background-color: #f1f1f1;;
+			    	color: @color_active;
+			    	display: block;
+			    	transition: all 0.7s ease 0s;
+				    -webkit-transition: all 0.7s ease 0s;
+				    -moz-transition: all 0.7s ease 0s;
+				    -o-transition: all 0.7s ease 0s;
+		    	}
+			}
+			.deal-thumbnail {
+				background-position: center;
+			    background-repeat: no-repeat;
+			    -webkit-background-size: cover;
+			    -moz-background-size: cover;
+			    -o-background-size: cover;
+			    background-size: cover;
+
+			    .label-discount {
+			    	right: 10px !important;
+			    	top: 10px !important;
+				    color: #fff;
+				    font-size: 15px;
+				    height: 50px;
+				    width: 50px;
+				    line-height: 48px;
+				    text-align: center;
+				    display: block;
+				    position: absolute;
+				    z-index: 1;
+				    text-transform: uppercase;
+				    white-space: nowrap;
+				    vertical-align: baseline;
+				    border-radius: 999px;
+				    background-color: #ff3100;
+				    border: 1px dashed #fff;
+				    -webkit-box-shadow: 0 0 0 2px #ff3100;
+				    box-shadow: 0 0 0 2px #ff3100;
+				}
+				.deal-about {
+					left: 0 !important;
+					bottom: 0 !important;
+					position: absolute !important;
+					padding: 10px !important;
+				}
+				.rating {
+					margin-bottom: 10px !important;
+				    color: #ff3100;
+				}
+				.rating-stars {
+					cursor: pointer;
+				    unicode-bidi: bidi-override;
+				    direction: rtl;
+				    white-space: nowrap;
+				    display: inline-table;
+				}
+				.fa {
+				    display: table-cell;
+				    font-size: 16px;
+				    padding: 2px;
+				}
+				.deal-title {
+					margin-bottom: 10px !important;
+					font-size: 14px;
+				}
+				.color-lighter {
+					color: #F5F5F5 !important;
+					text-decoration: none;
+				    display: block;
+				    padding: 0px;
+				    margin: 0;
+				    position: relative;
+				}
+			}	
+		}
     	.sub-menu {
 			background: #fff;
 		    margin: 0;
@@ -94,7 +185,7 @@
 		    z-index: 99;
 		    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
 		    a {
-			 	height: 40px;
+			 	height: 35px;
     			line-height: 40px;
     			display: block;
 		    	color: @color_sub_menu;
