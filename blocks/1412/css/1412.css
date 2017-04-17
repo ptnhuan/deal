@@ -1,0 +1,151 @@
+.type-1412 {
+  font-family: 'Montserrat', sans-serif;
+  border: none;
+  height: auto;
+}
+.type-1412 .page-main {
+  padding-top: 60px;
+  padding-b0ttom: 60px;
+}
+.type-1412 .page-main h1,
+.type-1412 .page-main h2,
+.type-1412 .page-main h3,
+.type-1412 .page-main h4,
+.type-1412 .page-main h5,
+.type-1412 .page-main h6,
+.type-1412 .page-main .h1,
+.type-1412 .page-main .h2,
+.type-1412 .page-main .h3,
+.type-1412 .page-main .h4,
+.type-1412 .page-main .h5,
+.type-1412 .page-main .h6 {
+  display: block;
+  line-height: 1.4;
+  font-weight: 400;
+  margin: 0;
+  text-rendering: optimizeLegibility;
+}
+.type-1412 .page-main .p-15 {
+  padding: 15px !important;
+}
+.type-1412 .page-main .panel {
+  border-radius: 3px;
+  overflow: hidden;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: 0;
+  margin: 0px;
+}
+.type-1412 .page-main .is-block {
+  display: block !important;
+}
+.type-1412 .page-main .stores-area .title-stores {
+  text-transform: uppercase;
+  margin-bottom: 30px !important;
+  font-size: 20px;
+}
+.type-1412 .page-main .stores-area .content-stores {
+  margin: -15px !important;
+}
+.type-1412 .page-main .stores-area .content-stores .store-logo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%,-50%);
+  -moz-transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  -o-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+.type-1412 .page-main .stores-area .content-stores .store-name {
+  padding: 6px 0;
+  border-top: 1px solid #f1f1f1;
+  background-color: #f7f8f9;
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+  font-size: 14px;
+  color: #314555;
+  -webkit-transition: all 400ms ease-in-out;
+  -ms-transition: all 400ms ease-in-out;
+  -o-transition: all 400ms ease-in-out;
+  transition: all 400ms ease-in-out;
+}
+.type-1412 .page-main .stores-area .content-stores .store-name:hover {
+  color: #2ed87b;
+  -webkit-transition: all 400ms ease-in-out;
+  -ms-transition: all 400ms ease-in-out;
+  -o-transition: all 400ms ease-in-out;
+  transition: all 400ms ease-in-out;
+}
+.type-1412 .page-main .stores-area .content-stores .store-name,
+.type-1412 .page-main .stores-area .content-stores .store-name:hover,
+.type-1412 .page-main .stores-area .content-stores a,
+.type-1412 .page-main .stores-area .content-stores a:hover {
+  text-decoration: none;
+}
+@media (max-width: 499px) {
+  .type-1412 .page-main .page-numbers {
+    display: none !important;
+  }
+  .type-1412 .page-main .current,
+  .type-1412 .page-main .next,
+  .type-1412 .page-main .pre {
+    display: inline-block !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+  }
+  .type-1412 .page-main .form-control {
+    width: 125px !important;
+  }
+}
+.type-1412 .page-main .pagination-area {
+  margin-top: 30px !important;
+  padding: 10px !important;
+}
+.type-1412 .page-main .pagination-area ul {
+  padding-left: 0px !important;
+}
+.type-1412 .page-main .pagination-area li {
+  display: inline;
+}
+.type-1412 .page-main .pagination-area li .page-numbers:hover {
+  text-decoration: none;
+  border-color: #2ed87b;
+  background-color: #2ed87b;
+  color: #fff;
+  -webkit-transition: all 200ms ease-in-out;
+  -ms-transition: all 200ms ease-in-out;
+  -o-transition: all 200ms ease-in-out;
+  transition: all 200ms ease-in-out;
+}
+.type-1412 .page-main .pagination-area li .page-numbers {
+  font-weight: 600;
+  text-shadow: none;
+  color: #576366;
+  display: inline-block;
+  margin: 0 2px;
+  padding: 0 13px;
+  line-height: 32px;
+  text-decoration: none;
+  height: 36px;
+  border: 2px solid #d3d9dd;
+  border-radius: 4px;
+  -webkit-transition: all 200ms ease-in-out;
+  -ms-transition: all 200ms ease-in-out;
+  -o-transition: all 200ms ease-in-out;
+  transition: all 200ms ease-in-out;
+}
+.type-1412 .page-main .pagination-area li .dots {
+  border: none;
+  padding: 0px;
+}
+.type-1412 .page-main .pagination-area li .current {
+  border-color: #2ed87b !important;
+  background-color: #2ed87b !important;
+  color: #fff;
+}
+.type-1412 .page-main .page-pagination {
+  font-size: 13px;
+  margin: 20px auto;
+  text-align: center;
+}

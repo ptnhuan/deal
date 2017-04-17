@@ -15,7 +15,7 @@
 	<section class="footer-top-area">
 		<div class="container">
 			<div class="row main-footer">
-				<div class="col-sm-12 col-md-7">
+				<div class="col-sm-12 col-md-7 ptb-20 plr-15">
                     <div class="row row-tb-20">
                         <div class="footer-col col-sm-6">
                             <div class="footer-about">
@@ -38,7 +38,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-12 col-md-5">
+                <div class="col-sm-12 col-md-5 dp ptb-20 plr-15">
                     <div class="row row-tb-20">
                         <div class="footer-col col-sm-6">
                             <div class="footer-links">
@@ -60,7 +60,7 @@
                             </div>
                         </div>
                         <div class="footer-col col-sm-6">
-                            <div class="footer-top-instagram instagram-widget">
+                            <div class="footer-top-instagram">
                                 <h2 class="color-lighter">Instagram Widget</h2>
                                 <div class="row content">
                                     <div class="item col-xs-4">
@@ -86,7 +86,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 clear ptb-20 plr-15">
                     <div class="payment-methods text-center">
                         <span><img src="images/paypal.jpg" alt=""></span>
                         <span><img src="images/visa.jpg" alt=""></span>
@@ -98,4 +98,19 @@
 			</div>
 		</div>
 	</section>
+    <footer class="footer-bottom-area text-center">
+        <div class="container">
+            <div class="row">
+                <p>Copyright © 2016 . All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+    <!-- Back Top -->
+    <div id="bttop" class="bttop is-hidden-sm-down">
+        <i class="fa fa-angle-up" aria-hidden="true"></i>
+    </div><!-- End Back Top -->
+    <!-- Buy Theme -->
+    <a href="#" class="buy-theme" data-href="#" target="#" id="buy_theme">
+        <i class="fa fa-credit-card"></i>
+    </a><!-- End Buy Theme -->
 </div>

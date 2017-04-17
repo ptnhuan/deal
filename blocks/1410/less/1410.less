@@ -1,20 +1,140 @@
+/************************** Animation Buy Theme *****************************/
+@keyframes animationWave{
+  0% {
+      opacity: 0.12!important;
+      transform: scale(1)!important;
+  }
+  100% {
+    transform: scale(1.8);
+    opacity: 0.18;
+  }
+}
+
+/******************************************************************
+*************************** CSS TYPE-1410 *************************
+******************************************************************/
 .type-1410{  
-    font-family: PT Serif;
+    font-family: 'Montserrat', sans-serif;
     border: none;
     height: auto;
-    @color_icon: #D0021B;
-    @color_bg: #000;   
-    @color_write: #fff;
-    
+    @color_icon: #2ed87b;
 
     .row-tb-20 {
 	    margin-top: -20px;
 	    margin-bottom: -20px;
 	}
+	.ptb-20 {
+		padding-top: 20px!important;
+		padding-bottom: 20px!important;
+	}
+	.dp {
+		display: inline-block;
+	}
+	.plr-15 {
+		padding-left: 15px!important;
+		padding-right: 15px!important;
+	}
 	.color-lighter {
 	    color: #F5F5F5 !important;
 	}
+	.clear {
+		clear: both!important;
+	}
+	@media (max-width: 767px)
+	{
+		.is-hidden-sm-down {
+		    display: none!important;
+		}
+	}
+	@media (max-width: 372px)
+	{
+		.payment-methods {
+		    img {
+		    	width: 38px!important;
+		    }
+		}
+	}
+
+	/************************** Back Top *****************************/
+	.bttop {
+		z-index: 9999;
+	    position: fixed;
+	    left: 30px;
+	    bottom: -10px;
+	    width: 40px;
+	    height: 40px;
+	    display: none;
+	    line-height: 38px;
+	    text-align: center;
+	    color: #fff;
+	    cursor: pointer;
+	    border-radius: 2px;
+	    -webkit-transition: all 400ms linear 0ms;
+	    -ms-transition: all 400ms linear 0ms;
+	    -o-transition: all 400ms linear 0ms;
+	    -moz-transition: all 400ms linear 0ms;
+	    transition: all 400ms linear 0ms;
+	    background-color: rgba(0, 0, 0, 0.4);
+	    font-size: 20px;
+	    bottom: 30px;
+
+	    i {
+	    	position: relative;
+    		bottom: -10px;
+	    }
+	}
+	.bttop:hover {
+		background-color: rgba(0, 0, 0, 0.8);
+	}
+
+	/************************** Buy Theme *****************************/
+	.buy-theme {
+		z-index: 9999;
+	    position: fixed;
+	    right: 30px;
+	    bottom: 30px;
+	    width: 54px;
+	    height: 54px;
+
+	    i {
+		    position: absolute;
+		    top: 0;
+		    left: 0;
+		    font-size: 26px;
+		    width: 54px;
+		    height: 54px;
+		    border-radius: 50%;
+		    line-height: 54px;
+		    background-color: @color_icon;
+		    color: #fff;
+		    text-align: center;
+		    z-index: 2;
+		}
+	}
+	.buy-theme:before {
+	    animation-delay: 0.5s;
+	}
+	.buy-theme:after {
+	    animation-delay: 0.3s;
+	}
+	.buy-theme:before, .buy-theme:after {
+	    content: "";
+	    display: block;
+	    width: 54px;
+	    height: 54px;
+	    position: absolute;
+	    top: 0;
+	    left: 0;
+	    border-radius: 50%;
+	    background-color: @color_icon;
+	    opacity: 1;
+	    animation: animationWave cubic-bezier(0,.54,.53,1) 2s;
+	    transform-origin: 50% 50%;
+	    animation-fill-mode: forwards;
+	    animation-iteration-count: infinite;
+	}
 	
+	/************************** Footer Top Area *****************************/
     .footer-top-area {
     	position: relative !important;
     	background-color: #314555 !important;
@@ -29,9 +149,6 @@
     			padding-top: 20px;
     			padding-bottom: 20px;
 
-    			img {
-    				margin-bottom: 30px !important;
-    			}
     			.color-light {
 				    color: #d4d4d4 !important;
 				}
@@ -41,14 +158,21 @@
 				    margin: 0 0 40px 0;
 				    text-transform: uppercase;
 				}
-				.ico {
+				a, a:hover {
+					color: @color_icon;
+    				text-decoration: none;
+				}
+    		}
+    		.footer-about {
+    			img {
+    				margin-bottom: 30px !important;
+    			}
+    		}
+    		.footer-top-twitter {
+    			.ico {
 				    font-size: 18px;
 				    margin-right: 8px;
-				    color: #2ed87b;
-				}
-				a, a:hover {
-					color: #2ed87b;
-    				text-decoration: none;
+				    color: @color_icon;
 				}
     		}
     		.footer-links {
@@ -75,7 +199,7 @@
 				    top: 0;
 				    height: inherit;
 				    line-height: inherit;
-				    color: #2ed87b;
+				    color: @color_icon;
 				}
     		}
     		.footer-top-instagram {
@@ -109,6 +233,20 @@
 			    max-width: 100%!important;
 			    height: auto!important;
 			}
+		}
+    }
+
+  	/************************** Footer Bottom Area *****************************/
+    .footer-bottom-area {
+	    background: #1e2b35;
+	    height: 60px;
+
+	    p {
+		    font-size: 15px;
+		    line-height: 26px;
+		    color: #647d89;
+		    margin: 17px 0 0 0;
+		    font-weight: 500;
 		}
     }
 }
