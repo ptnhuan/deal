@@ -3,8 +3,127 @@
     border: none;
     height: auto;
     @color_icon: #2ed87b; 
-    @color_icon_sale: #ff3100;
     @color_write: #314555;
 
+    .section {
+	    position: relative;
+	    background-size: cover;
+	    background-position: center;
+	    background-repeat: no-repeat;
+	}
+	.panel {
+	    margin-bottom: 0;
+	    border-radius: 4px;
+	}
+	.panel:nth-child(1n+2) {
+	    margin-top: 5px;
+	}
+	.panel-group {
+		margin: 0px;
+	}
+	.mb-30 {
+	    margin-bottom: 30px !important;
+	}
+    .page-content {
+    	padding-top: 40px;
+    }
+    .faq-area {
+    	padding-bottom: 60px !important;
+
+    	.sub-title {
+    		margin-bottom: 20px !important;
+		    margin-top: 30px !important;
+		    font-size: 20px;
+	        display: block;
+		    line-height: 1.4;
+		    font-weight: 400;
+		    margin: 0;
+    	}
+    	.faq-title {
+    		position: relative;
+		    padding-bottom: 0.85em;
+		    text-transform: uppercase;
+		    margin-bottom: 30px !important;
+        	font-size: 20px;
+            display: block;
+		    line-height: 1.4;
+		    font-weight: 400;
+		    margin-top: 0px;
+    	}
+    	.faq-title:before {
+		    content: '';
+		    position: absolute;
+		    left: 0px;
+		    bottom: 0px;
+		    width: 100%;
+		    height: 2px;
+		    background: #f1f1f1;
+		}
+		.faq-title:after {
+		    content: '';
+		    position: absolute;
+		    left: 0px;
+		    bottom: 0px;
+		    width: 40px;
+		    height: 2px;
+		    background: @color_icon;
+		}
+		.payments {
+			font-size: 18px;
+			margin-bottom: 15px !important;
+			margin-top: 0px;
+			display: block;
+		    line-height: 1.4;
+		    font-weight: 400;
+		}
+		.panel-heading {
+		    border: 0;
+		    padding: 0;
+		    position: relative;
+
+		    .panel-title {
+			    font-size: 15px;
+
+			    a {
+				    display: block;
+				    padding: 15px;
+				    text-decoration: none;
+				    background-color: @color_icon;
+				    color: #fff;
+				}
+				a:hover {
+					text-decoration: none;
+				}
+				a:before {
+					content: "\f068";
+    				color: #fff;
+    				font-family: 'FontAwesome';
+				    width: 30px;
+				    height: 30px;
+				    line-height: 30px;
+				    border-radius: 999px;
+				    position: absolute;
+				    right: 10px;
+				    top: 13px;
+				    font-size: 13px;
+				    display: inline-block;
+    				text-align: center;
+				}
+				.collapsed:before {
+					content: "\f067"!important;
+    				color: #222!important;
+				}
+				.collapsed {
+				    background-color: #f9f9f9!important;
+				    color: #222!important;
+				}
+			}
+			.panel-collapse {
+				.panel-body {
+				    border-top: 0;
+				}
+			}
+		}
+    }
     
 }

@@ -1,0 +1,102 @@
+.type-1410 {
+  font-family: PT Serif;
+  border: none;
+  height: auto;
+}
+.type-1410 .row-tb-20 {
+  margin-top: -20px;
+  margin-bottom: -20px;
+}
+.type-1410 .color-lighter {
+  color: #F5F5F5 !important;
+}
+.type-1410 section {
+  position: relative;
+}
+.type-1410 .footer-top-area {
+  position: relative !important;
+  background-color: #314555 !important;
+  padding-bottom: 30px !important;
+  padding-top: 70px !important;
+}
+.type-1410 .footer-top-area .main-footer {
+  margin-top: -20px;
+  margin-bottom: -20px;
+}
+.type-1410 .footer-top-area .main-footer .footer-col {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.type-1410 .footer-top-area .main-footer .footer-col img {
+  margin-bottom: 30px !important;
+}
+.type-1410 .footer-top-area .main-footer .footer-col .color-light {
+  color: #d4d4d4 !important;
+}
+.type-1410 .footer-top-area .main-footer .footer-col h2 {
+  font-size: 16px;
+  line-height: 26px;
+  margin: 0 0 40px 0;
+  text-transform: uppercase;
+}
+.type-1410 .footer-top-area .main-footer .footer-col .ico {
+  font-size: 18px;
+  margin-right: 8px;
+  color: #2ed87b;
+}
+.type-1410 .footer-top-area .main-footer .footer-col a,
+.type-1410 .footer-top-area .main-footer .footer-col a:hover {
+  color: #2ed87b;
+  text-decoration: none;
+}
+.type-1410 .footer-top-area .main-footer .footer-links a {
+  text-decoration: none;
+  display: block;
+  position: relative;
+  color: #bbbec1;
+  height: 25px;
+  line-height: 25px;
+  padding-left: 20px;
+  text-transform: capitalize;
+}
+.type-1410 .footer-top-area .main-footer .footer-links a:hover {
+  color: #bbbec1 !important;
+  text-decoration: none;
+}
+.type-1410 .footer-top-area .main-footer .footer-links a:before {
+  content: "\f105";
+  font-family: fontAwesome;
+  font-size: 15px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: inherit;
+  line-height: inherit;
+  color: #2ed87b;
+}
+.type-1410 .footer-top-area .main-footer .footer-top-instagram .content {
+  margin: -5px;
+}
+.type-1410 .footer-top-area .main-footer .footer-top-instagram .content .item {
+  padding: 5px;
+}
+.type-1410 .footer-top-area .main-footer .footer-top-instagram .content .item img {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 0px !important;
+}
+.type-1410 .footer-top-area .payment-methods {
+  opacity: 0.8;
+}
+.type-1410 .footer-top-area .payment-methods span {
+  padding: 0 2px;
+}
+.type-1410 .footer-top-area .payment-methods img {
+  border-radius: 2px !important;
+  width: 55px;
+  display: inline-block !important;
+  max-width: 100% !important;
+  height: auto !important;
+}

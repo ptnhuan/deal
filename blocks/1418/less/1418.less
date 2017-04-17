@@ -1,10 +1,181 @@
 .type-1418{  
-    font-family: 'Montserrat', sans-serif;
     border: none;
     height: auto;
-    @color_icon: #2ed87b; 
-    @color_icon_sale: #ff3100;
-    @color_write: #314555;
-
+    font-family: 'Montserrat', sans-serif;
+    @color_icon: #ff3100;  
     
+    .swiper-wrapper {
+        height: auto !important;
+    }
+    @media (max-width: 398px){
+        .deal-title {
+            a {
+                font-size: 0.67em!important;
+            }
+        }
+    }
+    .swiper-slide {
+        height: auto !important;
+
+        img {
+            width: 100%;
+        }
+        .label-discount {
+            top: 10px;
+            right: 10px;
+            color: #fff;
+            font-size: 15px;
+            height: 50px;
+            width: 50px;
+            line-height: 48px;
+            text-align: center;
+            display: block;
+            position: absolute;
+            z-index: 1;
+            text-transform: uppercase;
+            white-space: nowrap;
+            vertical-align: baseline;
+            border-radius: 999px;
+            background-color: @color_icon;
+            border: 1px dashed #fff;
+            -webkit-box-shadow: 0 0 0 2px @color_icon;
+            box-shadow: 0 0 0 2px @color_icon;
+        }
+        .deal-actions {
+            top: 10px;
+            left: 10px;
+            position: absolute;
+            z-index: 10;
+            margin-bottom: 0;
+
+            li {
+                position: relative;
+                display: inline-block;
+                vertical-align: middle;
+                margin-right: 5px;
+                color: #fff;
+                cursor: pointer;
+
+                span {
+                    display: inline-block;
+                    width: 28px;
+                    height: 28px;
+                    line-height: 28px;
+                    border-radius: 4px;
+                    background-color: #000;
+                    opacity: 0.6;
+                    text-align: center;
+                }
+                i {
+                    padding-top: 6px;
+                }
+                .share-tooltip {
+                    position: absolute;
+                    right: -48px;
+                    top: 35px;
+                    background-color: #2ed87b;
+                    white-space: nowrap;
+                    display: block;
+                    padding: 0 5px;
+                    -webkit-border-radius: 3px;
+                    -moz-border-radius: 3px;
+                    -ms-border-radius: 3px;
+                    border-radius: 3px;
+                }
+            }
+        }
+        .deal-about {
+            position: absolute !important;
+            left: 0 !important;
+            bottom: 0 !important;
+            padding: 20px !important;
+
+            .rating {
+                color: #ff3100;
+                margin-bottom: 10px !important;
+
+                .rating-stars {
+                    unicode-bidi: bidi-override;
+                    direction: rtl;
+                    white-space: nowrap;
+                    display: inline-table;
+
+                    i {
+                        display: table-cell;
+                        font-size: 16px;
+                        padding: 2px;
+                    }
+                }
+                .rating-reviews {
+                    color: #d4d4d4 !important;   
+                    margin-left: 6px;
+                }
+            }
+            .deal-title {
+                margin-bottom: 10px !important;
+                font-size: 20px;
+                display: block;
+                line-height: 1.4;
+                font-weight: 400;
+                margin: 0;
+
+                a {
+                    text-decoration: none;
+                    color: #d4d4d4 !important;
+                    -webkit-transition: all 400ms linear 0ms;
+                    -ms-transition: all 400ms linear 0ms;
+                    -o-transition: all 400ms linear 0ms;
+                    transition: all 400ms linear 0ms;
+                }
+                a:hover {
+                    text-decoration: none;
+                    color: #F5F5F5 !important;
+                    -webkit-transition: all 400ms linear 0ms;
+                    -ms-transition: all 400ms linear 0ms;
+                    -o-transition: all 400ms linear 0ms;
+                    transition: all 400ms linear 0ms;
+                }
+            }
+        }
+    }
+    .swiper-button-next, .swiper-button-prev {
+        background: rgba(0, 0, 0, 0.3);
+        width: 20px;
+        height: 40px;
+        -webkit-transition: width 0.2s;
+        -o-transition: width 0.2s;
+        -ms-transition: width 0.2s;
+        -moz-transition: width 0.2s;
+        transition: width 0.2s;
+    }
+
+    .swiper-button-prev {
+        left: 0px;
+        border-bottom-right-radius: 7px;
+        border-top-right-radius: 7px;
+
+        .btn-prev {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translateX(-50%) translateY(-50%);
+            color: #FFF;
+            font-size: 0.95em;
+        }
+    }
+
+    .swiper-button-next {
+        right: 0px;
+        border-bottom-left-radius: 7px;
+        border-top-left-radius: 7px;
+
+        .btn-next {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translateX(-50%) translateY(-50%);
+            color: #FFF;
+            font-size: 0.95em;
+        }
+    }
 }

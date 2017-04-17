@@ -21,4 +21,5 @@
 <body style="background: rgb(233,235,238)">
     <?php include './1401-content.php'; ?>
 </body>
+<script src="js/1401.js" type="text/javascript"></script>
 </html>

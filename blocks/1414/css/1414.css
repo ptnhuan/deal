@@ -1,0 +1,73 @@
+.type-1414 {
+  font-family: 'Montserrat', sans-serif;
+  border: none;
+  height: auto;
+}
+.type-1414 .cart-price h5 {
+  text-transform: uppercase;
+  margin-bottom: 20px !important;
+  font-size: 16px;
+  display: block;
+  line-height: 1.4;
+  font-weight: 400;
+}
+.type-1414 .cart-price .panel {
+  padding: 15px 30px;
+  margin-bottom: 20px !important;
+  border-radius: 3px;
+  overflow: hidden;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border: 0;
+}
+.type-1414 .cart-price .panel li {
+  padding: 10px 0;
+  border-bottom: 1px solid #ebebeb;
+  margin-bottom: 10px;
+}
+.type-1414 .cart-price .panel li .item-name {
+  float: left;
+  color: #8b8b8b;
+}
+.type-1414 .cart-price .panel li .item-name strong {
+  color: #222222;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.type-1414 .cart-price .panel li .price {
+  text-align: right;
+  color: #999;
+  margin-bottom: 0;
+}
+.type-1414 .cart-price .panel li .price span {
+  color: #2ed87b;
+  font-size: 15px;
+}
+.type-1414 .cart-price .panel li:last-child {
+  border-bottom: 0;
+  margin-bottom: 0;
+}
+.type-1414 .cart-price .t-right {
+  text-align: right !important;
+}
+.type-1414 .cart-price .t-right .btn-rounded {
+  border-radius: 999px !important;
+  background-color: #2ed87b;
+  color: #fff;
+  height: 46px;
+  padding: 11px 30px;
+  font-size: 13px;
+  line-height: 20px;
+  -webkit-transition: all 400ms linear 0ms;
+  -ms-transition: all 400ms linear 0ms;
+  -o-transition: all 400ms linear 0ms;
+  transition: all 400ms linear 0ms;
+}
+.type-1414 .cart-price .t-right .btn-rounded:hover {
+  background-color: #25c76f;
+  -webkit-transition: all 400ms linear 0ms;
+  -ms-transition: all 400ms linear 0ms;
+  -o-transition: all 400ms linear 0ms;
+  transition: all 400ms linear 0ms;
+}

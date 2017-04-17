@@ -17,17 +17,17 @@
 		<div class="container">
   			<nav class="navbar ">
 		      	<div class="navbar-header">
-			        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#nav-top-menu">
-			            <span class="icon-bar"></span>
-			            <span class="icon-bar"></span>
-			            <span class="icon-bar"></span>
-			        </button>
+		      		<span class="navbar-toggle collapsed pull-left btn-menu" data-toggle="collapse" data-target="#nav-top-menu">
+                        <i></i>
+                        <i></i>
+                        <i></i>
+                    </span>
 			    </div>
-		        <div id="nav-top-menu" class="navbar-collapse collapse menu-content">
-			        <ul class="nav navbar-nav">
+		        <div id="nav-top-menu" class="collapse menu-content">
+			        <ul class="menu nav navbar-nav">
 			            <li class="active"><a href="#">Home</a></li>
 			            <li class="dropdown-mega-menu">
-			          		<a href="#">Deals<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
+			          		<a>Deals<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
 			          		<div class="mega-menu">
 	                            <div class="row">
 	                                <div class="col-md-3">
@@ -99,16 +99,16 @@
 	                        </div>
 			          	</li>
 			          	<li>
-			          		<a href="#">Coupons<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
-			          		<ul class="sub-menu list-unstyled">
+			          		<a>Coupons<span class="indicator" data-toggle="collapse" data-target="#nav-top-menu-1"><i class="fa fa-angle-down"></i></span></a>
+			          		<ul id="nav-top-menu-1" class="sub-menu list-unstyled collapse">
 				                <li><a href="#">Grid View</a></li>
 				                <li><a href="#">Grid With Sidebar</a></li>
 				                <li><a href="#">List View</a></li>
 				            </ul>
 			          	</li>
 			          	<li>
-			          		<a href="#">Stores<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
-			          		<ul class="sub-menu list-unstyled">
+			          		<a>Stores<span class="indicator" data-toggle="collapse" data-target="#nav-top-menu-2"><i class="fa fa-angle-down"></i></span></a>
+			          		<ul id="nav-top-menu-2" class="collapse sub-menu list-unstyled">
 				                <li><a href="#">Stores Search</a></li>
 				                <li><a href="#">Stores Categories</a></li>
 				                <li><a href="#">Store Single 1</a></li>
@@ -116,14 +116,14 @@
 				            </ul>
 			          	</li>
 			          	<li>
-			          		<a href="#">Contact Us<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
-			          		<ul class="sub-menu list-unstyled">
+			          		<a>Contact Us<span class="indicator" data-toggle="collapse" data-target="#nav-top-menu-3"><i class="fa fa-angle-down"></i></span></a>
+			          		<ul id="nav-top-menu-3" class="collapse sub-menu list-unstyled">
 				                <li><a href="#">Contact Us 1</a></li>
 				                <li><a href="#">Contact Us 2</a></li>
 				            </ul>
 			          	</li>
 			          	<li>
-			          		<a href="#">Blog<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
+			          		<a>Blog<span data-toggle="collapse" data-target="#nav-top-menu-4" class="indicator"><i class="fa fa-angle-down"></i></span></a>
 			          		<ul class="sub-menu list-unstyled">
 				                <li>
 				                	<a href="#">Classic View<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
@@ -164,7 +164,7 @@
 				            </ul>
 			          	</li>
 			          	<li>
-			          		<a href="#">Pages<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
+			          		<a>Pages<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
 			          		<ul class="sub-menu list-unstyled">
 				                <li><a href="#">Home Default</a></li>
 				                <li><a href="#">Sign In</a></li>
@@ -208,7 +208,6 @@
 			          	</li>
 			        </ul>
 		        </div>
-		        <!--/.nav-collapse -->
 			</nav>
 		</div>
 	</div>

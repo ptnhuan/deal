@@ -11,6 +11,28 @@
     .top-menu {
     	background-color: @color_bg;
     	
+    	.menu {
+    		font-size: 13px;
+    	}
+
+    	.btn-menu {
+    		display: inline-block;
+		    vertical-align: middle;
+		    cursor: pointer;
+		    width: 40px;
+		    padding: 10px 4px;
+		    left: 0;
+
+    		i {
+    			display: block;
+			    width: 100%;
+			    height: 2px;
+			    background-color: #fff;
+    		}
+    		i:nth-child(1n+2) {
+			    margin-top: 7px;
+			}
+    	}
     	.menu-content {
     		max-height: none;
     		padding-right: 0px;
@@ -22,11 +44,6 @@
 
     		.indicator {
     			margin-left: 10px;
-    		}
-    		.active {
-    			a {
-    				background-color: @color_active;
-    			}
     		}
     		a {
     			color: @color_write;
@@ -40,56 +57,14 @@
 			    -moz-transition: all 1s ease 0s;
 			    -o-transition: all 1s ease 0s;
     		}
-    		a:hover {
-    			background-color: @color_active;
-    			text-decoration: none;
-    			transition: all 1s ease 0s;
-			    -webkit-transition: all 1s ease 0s;
-			    -moz-transition: all 1s ease 0s;
-			    -o-transition: all 1s ease 0s;
-    		}
     		li:hover {
-    			.sub-menu {
-			    	display: block;
-			    }
-    		}
+	    		a {
+    				color: @color_active;
+    				background-color: rgba(0, 0, 0, 0)!important;
+    			}
+	    	}
     	}
-    	.dropdown-mega-menu:hover {
-    		.mega-menu {
-    			display: block;
-    		}
-    	}
-    	.dropdown-mega-menu {
-		    position: static;
-		    .mega-menu {
-			    width: 100%;
-			    top: 100%;
-			    left: 0;
-			    padding: 15px 20px;
-			    display: none;
-			    background: #fff;
-			    margin: 0;
-			    min-width: 200px;
-			    position: absolute;
-			    z-index: 99;
-			    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
-			    li {
-			    	display: block;
-    				position: relative;
-    				a {
-    					height: 35px;
-    					line-height: 35px;
-    					color: @color_sub_menu;
-    					padding: 0px;
-    				}
-    				a:hover {
-    					background-color: #fff;;
-			    		color: @color_active;
-    				}
-			    }
-			}
-		}
-		.mega-menu {
+    	.mega-menu {
 			a {
 				height: 25px;
     			line-height: 30px;
@@ -176,70 +151,149 @@
 				}
 			}	
 		}
-    	.sub-menu {
-			background: #fff;
-		    margin: 0;
-		    display: none;
-		    min-width: 200px;
-		    position: absolute;
-		    z-index: 99;
-		    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
-		    a {
-			 	height: 35px;
-    			line-height: 40px;
-    			display: block;
-		    	color: @color_sub_menu;
-		    }
-		    li {
-		    	position: relative;
-		    }
-		    li:hover {
-		    	a {
-		    		background-color: #f1f1f1;;
-			    	color: @color_active;
-			    	display: block;
-			    	transition: all 0.7s ease 0s;
-				    -webkit-transition: all 0.7s ease 0s;
-				    -moz-transition: all 0.7s ease 0s;
-				    -o-transition: all 0.7s ease 0s;
-		    	}
-		    	ul {
-		    		display: block;
-		    		a {
-		    			background-color: #fff;
-		    			color: @color_sub_menu;
-		    		}
-		    	}
-		    }
-		    .indicator {
-			    position: absolute;
-			    top: 12px;
-			    right: 15px;
-			}
-			ul {
-				top: 0;
-			    left: 100%;
+    	.dropdown-mega-menu {
+		    position: static;
+		    .mega-menu {
+			    width: 100%;
+			    top: 100%;
+			    left: 0;
+			    padding: 15px 20px;
+			    display: none;
 			    background: #fff;
 			    margin: 0;
-			    display: none;
 			    min-width: 200px;
 			    position: absolute;
 			    z-index: 99;
 			    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
-
+			    li {
+			    	display: block;
+    				position: relative;
+    				a {
+    					height: 35px;
+    					line-height: 35px;
+    					color: @color_sub_menu;
+    					padding: 0px;
+    				}
+    				a:hover {
+    					background-color: #fff;;
+			    		color: @color_active;
+    				}
+			    }
+			}
+		}
+    	@media (min-width: 992px) {
+    		.navbar-header {
+    			display: none;
+    		}
+    		nav {
+	    		a:hover {
+	    			background-color: @color_active;
+	    			text-decoration: none;
+	    			transition: all 1s ease 0s;
+				    -webkit-transition: all 1s ease 0s;
+				    -moz-transition: all 1s ease 0s;
+				    -o-transition: all 1s ease 0s;
+	    		}
+	    		li:hover {
+	    			.sub-menu {
+				    	display: block;
+				    }
+	    		}
+	    		.active {
+	    			a {
+	    				background-color: @color_active;
+	    			}
+	    		}
+	    	}
+    		.sub-menu {
+				background: #fff;
+			    margin: 0;
+			    display: none;
+			    min-width: 180px;
+			    position: absolute;
+			    z-index: 99;
+			    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+			    a {
+				 	height: 35px;
+	    			line-height: 40px;
+	    			display: block;
+			    	color: @color_sub_menu!important;
+			    }
+			    li {
+			    	position: relative;
+			    }
 			    li:hover {
-				    a {
-				    	background-color: #f1f1f1;;
-				    	color: @color_active;
+			    	a {
+			    		background-color: #f1f1f1;;
+				    	color: @color_active!important;
 				    	display: block;
 				    	transition: all 0.7s ease 0s;
 					    -webkit-transition: all 0.7s ease 0s;
 					    -moz-transition: all 0.7s ease 0s;
 					    -o-transition: all 0.7s ease 0s;
-				    }
+			    	}
+			    	ul {
+			    		display: block;
+			    		a {
+			    			background-color: #fff!important;
+			    			color: @color_sub_menu!important;
+			    		}
+			    		a:hover {
+			    			color: @color_active!important;
+			    		}
+			    	}
 			    }
+			    .indicator {
+				    position: absolute;
+				    top: 12px;
+				    right: 15px;
+				}
+				ul {
+					top: 0;
+				    left: 100%;
+				    background: #fff;
+				    margin: 0;
+				    display: none;
+				    min-width: 180px;
+				    position: absolute;
+				    z-index: 99;
+				    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+
+				    li:hover {
+					    a {
+					    	background-color: #f1f1f1;;
+					    	color: @color_active;
+					    	display: block;
+					    	transition: all 0.7s ease 0s;
+						    -webkit-transition: all 0.7s ease 0s;
+						    -moz-transition: all 0.7s ease 0s;
+						    -o-transition: all 0.7s ease 0s;
+					    }
+				    }
+				}
 			}
-		}
+			.dropdown-mega-menu:hover {
+	    		.mega-menu {
+	    			display: block;
+	    		}
+    		}
+    	}
+    	@media (max-width: 992px) {
+	    	.menu {
+	    		li {
+	    			width: 100%;
+	    		}
+	    		.indicator {
+	    			float: right;
+				    top: 40%;
+				    position: relative;
+	    		}
+	    	}
+    		.mega-menu {
+    	    	position: static!important;
+    	    	display: block!important;
+    		}
+    	}
     }
     
 }

@@ -12,5 +12,26 @@
 ?>
 
 <div class="type-1414">
-	
+	<div class="container">
+		<div class="cart-price">
+			<h5>Cart total</h5>
+			<ul class="panel list-unstyled">
+                <li>
+                    <div class="item-name">Subtotal</div>
+                    <div class="price">$68.50</div>
+                </li>
+                <li>
+                    <div class="item-name">Shipping</div>
+                    <div class="price">$68.50</div>
+                </li>
+                <li>
+                    <div class="item-name"><strong>Order total</strong></div>
+                    <div class="price"><span>$150.50</span></div>
+                </li>
+            </ul>
+            <div class="t-right">
+		        <a href="#" class="btn btn-rounded btn-lg">CHECKOUT</a>
+		    </div>
+		</div>
+	</div>
 </div>
