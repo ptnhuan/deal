@@ -16,7 +16,7 @@
         <div class="widget subscribe-widget panel">
             <h3 class="widget-title">Subscribe to mail</h3>
             <div class="widget-content">
-                <p class="color-mid mb-20">Get our Daily email newsletter with Special Services, Updates, Offers and more!</p>
+                <p class="color-mid">Get our Daily email newsletter with Special Services, Updates, Offers and more!</p>
                 <form method="post" action="#">
                     <div class="input-group">
                         <input type="email" class="form-control" placeholder="Your Email Address" required="required">
@@ -33,7 +33,7 @@
             <h3 class="widget-title">Trending Stores</h3>
             <div class="widget-body">
                 <div class="trend-store-item media">
-                    <div class="post-thumb media-left">
+                    <div class="media-left">
                         <a href="#">
                             <img class="media-object" width="90" src="images/brand_01.jpg" alt="">
                         </a>
@@ -44,7 +44,7 @@
                             <span class="rating">
                                 <span class="rating-stars" data-rating="4">
                                     <i class="fa fa-star-o"></i>
-                                    <i class="fa fa-star-o star-active"></i>
+                                    <i class="fa fa-star-o"></i>
                                     <i class="fa fa-star-o"></i>
                                     <i class="fa fa-star-o"></i>
                                     <i class="fa fa-star-o"></i>
@@ -55,7 +55,7 @@
                     </div>
                 </div><!-- End Item -->
                 <div class="trend-store-item media">
-                    <div class="post-thumb media-left">
+                    <div class="media-left">
                         <a href="#">
                             <img class="media-object" width="90" src="images/brand_02.jpg" alt="">
                         </a>
@@ -66,7 +66,7 @@
                             <span class="rating">
                                 <span class="rating-stars" data-rating="4">
                                     <i class="fa fa-star-o"></i>
-                                    <i class="fa fa-star-o star-active"></i>
+                                    <i class="fa fa-star-o"></i>
                                     <i class="fa fa-star-o"></i>
                                     <i class="fa fa-star-o"></i>
                                     <i class="fa fa-star-o"></i>
@@ -77,7 +77,7 @@
                     </div>
                 </div><!-- End Item -->
                 <div class="trend-store-item media">
-                    <div class="post-thumb media-left">
+                    <div class="media-left">
                         <a href="#">
                             <img class="media-object" width="90" src="images/brand_03.jpg" alt="">
                         </a>
@@ -88,7 +88,7 @@
                             <span class="rating">
                                 <span class="rating-stars" data-rating="4">
                                     <i class="fa fa-star-o"></i>
-                                    <i class="fa fa-star-o star-active"></i>
+                                    <i class="fa fa-star-o"></i>
                                     <i class="fa fa-star-o"></i>
                                     <i class="fa fa-star-o"></i>
                                     <i class="fa fa-star-o"></i>

@@ -44,7 +44,7 @@
                                                     <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                                 </h5>
                                                 <p class="date"><i class="lnr lnr-clock mr-10"></i>Expires On 01/01/2018</p>
-                                                <div class="showcode" data-toggle-class="coupon-showen" data-toggle-event="click">
+                                                <div class="showcode">
                                                     <button class="show-code btn btn-sm btn-block" data-toggle="modal" data-target="#coupon_01">Get Coupon Code</button>
                                                     <div class="coupon-hide">X455-17GT-OL58</div>
                                                 </div>
@@ -72,7 +72,7 @@
                                                     <a href="#">15% off 2 select Amazon Fire cases</a>
                                                 </h5>
                                                 <p class="date"><i class="lnr lnr-clock mr-10"></i>Expires On 05/02/2018</p>
-                                                <div class="showcode" data-toggle-class="coupon-showen" data-toggle-event="click">
+                                                <div class="showcode">
                                                     <button class="show-code btn btn-sm btn-block" data-toggle="modal" data-target="#coupon_01">Get Coupon Code</button>
                                                     <div class="coupon-hide">X455-17GT-OL58</div>
                                                 </div>
@@ -100,7 +100,7 @@
                                                     <a href="#">Flat 40% off hotel bookings in 10 cities</a>
                                                 </h5>
                                                 <p class="date"><i class="lnr lnr-clock mr-10"></i>Expires On 15/01/2018</p>
-                                                <div class="showcode" data-toggle-class="coupon-showen" data-toggle-event="click">
+                                                <div class="showcode">
                                                     <button class="show-code btn btn-sm btn-block" data-toggle="modal" data-target="#coupon_01">Get Coupon Code</button>
                                                     <div class="coupon-hide">X455-17GT-OL58</div>
                                                 </div>
@@ -128,7 +128,7 @@
                                                     <a href="#">There is no place like home 25% off</a>
                                                 </h5>
                                                 <p class="date"><i class="lnr lnr-clock mr-10"></i>Expires On 02/03/2018</p>
-                                                <div class="showcode" data-toggle-class="coupon-showen" data-toggle-event="click">
+                                                <div class="showcode">
                                                     <button class="show-code btn btn-sm btn-block" data-toggle="modal" data-target="#coupon_01">Get Coupon Code</button>
                                                     <div class="coupon-hide">X455-17GT-OL58</div>
                                                 </div>
@@ -159,7 +159,7 @@
                                                     <a href="#">10% off $399+ refurbished laptops</a>
                                                 </h5>
                                                 <p class="date"><i class="lnr lnr-clock mr-10"></i>Expires On 20/02/2018</p>
-                                                <div class="showcode" data-toggle-class="coupon-showen" data-toggle-event="click">
+                                                <div class="showcode">
                                                     <button class="show-code btn btn-sm btn-block" data-toggle="modal" data-target="#coupon_01">Get Coupon Code</button>
                                                     <div class="coupon-hide">X455-17GT-OL58</div>
                                                 </div>
@@ -187,7 +187,7 @@
                                                     <a href="#">There is no place like home 25% off</a>
                                                 </h5>
                                                 <p class="date"><i class="lnr lnr-clock mr-10"></i>Expires On 14/01/2018</p>
-                                                <div class="showcode" data-toggle-class="coupon-showen" data-toggle-event="click">
+                                                <div class="showcode">
                                                     <button class="show-code btn btn-sm btn-block" data-toggle="modal" data-target="#coupon_01">Get Coupon Code</button>
                                                     <div class="coupon-hide">X455-17GT-OL58</div>
                                                 </div>

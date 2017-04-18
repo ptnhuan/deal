@@ -17,7 +17,7 @@
 			<div class="container">
 				<div class="wishlist-wrapper">
 					<h3 class="wishlist-title">My Wishlist</h3>
-					<table id="cart_list" class="wishlist">
+					<table class="wishlist">
                         <tbody>
                     		<tr class="panel alert">
                                 <td class="col-sm-8 col-md-9">
@@ -33,11 +33,11 @@
 				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
-				                        		<i class="fa fa-star-o star-active"></i>
+				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
 				                        	</span>
                                             <span class="rating-reviews">
-	                        					( <span class="rating-count">100</span> rates )
+	                        					( <span>100</span> rates )
                                             </span>
                                         </div>
                                         <h4 class="price"><span class="price-sale">$380.00</span>$340.00</h4>
@@ -67,11 +67,11 @@
 				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
-				                        		<i class="fa fa-star-o star-active"></i>
+				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
 				                        	</span>
                                             <span class="rating-reviews">
-	                        					( <span class="rating-count">100</span> rates )
+	                        					( <span>100</span> rates )
                                             </span>
                                         </div>
                                         <h4 class="price"><span class="price-sale">$380.00</span>$340.00</h4>
@@ -101,11 +101,11 @@
 				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
-				                        		<i class="fa fa-star-o star-active"></i>
+				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
 				                        	</span>
                                             <span class="rating-reviews">
-	                        					( <span class="rating-count">100</span> rates )
+	                        					( <span>100</span> rates )
                                             </span>
                                         </div>
                                         <h4 class="price"><span class="price-sale">$380.00</span>$340.00</h4>
@@ -135,11 +135,11 @@
 				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
-				                        		<i class="fa fa-star-o star-active"></i>
+				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
 				                        	</span>
                                             <span class="rating-reviews">
-	                        					( <span class="rating-count">100</span> rates )
+	                        					( <span>100</span> rates )
                                             </span>
                                         </div>
                                         <h4 class="price"><span class="price-sale">$380.00</span>$340.00</h4>
@@ -169,11 +169,11 @@
 				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
-				                        		<i class="fa fa-star-o star-active"></i>
+				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
 				                        	</span>
                                             <span class="rating-reviews">
-	                        					( <span class="rating-count">100</span> rates )
+	                        					( <span>100</span> rates )
                                             </span>
                                         </div>
                                         <h4 class="price"><span class="price-sale">$380.00</span>$340.00</h4>
@@ -203,11 +203,11 @@
 				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
-				                        		<i class="fa fa-star-o star-active"></i>
+				                        		<i class="fa fa-star-o"></i>
 				                        		<i class="fa fa-star-o"></i>
 				                        	</span>
                                             <span class="rating-reviews">
-	                        					( <span class="rating-count">100</span> rates )
+	                        					( <span>100</span> rates )
                                             </span>
                                         </div>
                                         <h4 class="price"><span class="price-sale">$380.00</span>$340.00</h4>

@@ -56,7 +56,7 @@
                                         <h5 class="deal-title">
                                          <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                       </h5>
-                                        <p class="deal-date color-muted"><i class="lnr lnr-clock mr-10"></i>Expires in 1 day 30 hours</p>
+                                        <p class="deal-date color-muted"><i class="lnr lnr-clock"></i>Expires in 1 day 30 hours</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Show Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -84,7 +84,7 @@
                                         <h5 class="deal-title">
                                          <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                       </h5>
-                                        <p class="deal-date color-muted"><i class="lnr lnr-clock mr-10"></i>Expires in 1 day 30 hours</p>
+                                        <p class="deal-date color-muted"><i class="lnr lnr-clock"></i>Expires in 1 day 30 hours</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Show Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -112,7 +112,7 @@
                                         <h5 class="deal-title">
                                          <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                       </h5>
-                                        <p class="deal-date color-muted"><i class="lnr lnr-clock mr-10"></i>Expires in 1 day 30 hours</p>
+                                        <p class="deal-date color-muted"><i class="lnr lnr-clock"></i>Expires in 1 day 30 hours</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Show Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -140,7 +140,7 @@
                                         <h5 class="deal-title">
                                          <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                       </h5>
-                                        <p class="deal-date color-muted"><i class="lnr lnr-clock mr-10"></i>Expires in 1 day 30 hours</p>
+                                        <p class="deal-date color-muted"><i class="lnr lnr-clock"></i>Expires in 1 day 30 hours</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Show Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -171,7 +171,7 @@
                                         <h5 class="deal-title">
                                          <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                       </h5>
-                                        <p class="deal-date color-muted"><i class="lnr lnr-clock mr-10"></i>Expires in 1 day 30 hours</p>
+                                        <p class="deal-date color-muted"><i class="lnr lnr-clock"></i>Expires in 1 day 30 hours</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Show Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -202,7 +202,7 @@
                                         <h5 class="deal-title">
                                          <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                       </h5>
-                                        <p class="deal-date color-muted"><i class="lnr lnr-clock mr-10"></i>Expires in 1 day 30 hours</p>
+                                        <p class="deal-date color-muted"><i class="lnr lnr-clock"></i>Expires in 1 day 30 hours</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Show Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -230,7 +230,7 @@
                                         <h5 class="deal-title">
                                          <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                       </h5>
-                                        <p class="deal-date color-muted"><i class="lnr lnr-clock mr-10"></i>Expires in 1 day 30 hours</p>
+                                        <p class="deal-date color-muted"><i class="lnr lnr-clock"></i>Expires in 1 day 30 hours</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Show Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -258,7 +258,7 @@
                                         <h5 class="deal-title">
                                          <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                       </h5>
-                                        <p class="deal-date color-muted"><i class="lnr lnr-clock mr-10"></i>Expires in 1 day 30 hours</p>
+                                        <p class="deal-date color-muted"><i class="lnr lnr-clock"></i>Expires in 1 day 30 hours</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Show Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -286,7 +286,7 @@
                                         <h5 class="deal-title">
                                          <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                       </h5>
-                                        <p class="deal-date color-muted"><i class="lnr lnr-clock mr-10"></i>Expires in 1 day 30 hours</p>
+                                        <p class="deal-date color-muted"><i class="lnr lnr-clock"></i>Expires in 1 day 30 hours</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Show Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -317,7 +317,7 @@
                                         <h5 class="deal-title">
                                          <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                       </h5>
-                                        <p class="deal-date color-muted"><i class="lnr lnr-clock mr-10"></i>Expires in 1 day 30 hours</p>
+                                        <p class="deal-date color-muted"><i class="lnr lnr-clock"></i>Expires in 1 day 30 hours</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Show Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -345,7 +345,7 @@
                                         <h5 class="deal-title">
                                          <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                       </h5>
-                                        <p class="deal-date color-muted"><i class="lnr lnr-clock mr-10"></i>Expires in 1 day 30 hours</p>
+                                        <p class="deal-date color-muted"><i class="lnr lnr-clock"></i>Expires in 1 day 30 hours</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Show Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -373,7 +373,7 @@
                                         <h5 class="deal-title">
                                          <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                       </h5>
-                                        <p class="deal-date color-muted"><i class="lnr lnr-clock mr-10"></i>Expires in 1 day 30 hours</p>
+                                        <p class="deal-date color-muted"><i class="lnr lnr-clock"></i>Expires in 1 day 30 hours</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Show Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>

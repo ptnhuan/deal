@@ -16,7 +16,7 @@
 		<div class="container">
 			<div class="cart-wrapper">
 				<h3 class="cart-title">My Cart</h3>
-				<table id="cart_list" class="cart-list">
+				<table class="cart-list">
                     <thead class="panel">
                         <tr>
                             <th>Product name</th>

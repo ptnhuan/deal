@@ -26,17 +26,17 @@
                     </div>
                     <div class="media-body">
                         <h5 class="stars">
-                         <a href="#">John Doe</a>
-                         <span class="rating">
-                         <span class="rating-stars" data-rating="3">
-                         <i class="fa fa-star-o"></i>
-                         <i class="fa fa-star-o"></i>
-                         <i class="fa fa-star-o star-active"></i>
-                         <i class="fa fa-star-o"></i>
-                         <i class="fa fa-star-o"></i>
-                         </span>
-                         </span>
-                      </h5>
+                            <a href="#">John Doe</a>
+                            <span class="rating">
+                                <span class="rating-stars">
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                </span>
+                            </span>
+                        </h5>
                         <p class="color-mid">Vivamus sem massa, cursus at mollis eu, euismod id risus. Ve...</p>
                     </div>
                 </div>
@@ -50,17 +50,17 @@
                     </div>
                     <div class="media-body">
                         <h5 class="stars">
-                         <a href="#">John Doe</a>
-                         <span class="rating">
-                         <span class="rating-stars" data-rating="3">
-                         <i class="fa fa-star-o"></i>
-                         <i class="fa fa-star-o"></i>
-                         <i class="fa fa-star-o star-active"></i>
-                         <i class="fa fa-star-o"></i>
-                         <i class="fa fa-star-o"></i>
-                         </span>
-                         </span>
-                      </h5>
+                            <a href="#">John Doe</a>
+                            <span class="rating">
+                                <span class="rating-stars">
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                </span>
+                            </span>
+                        </h5>
                         <p class="color-mid">Vivamus sem massa, cursus at mollis eu, euismod id risus. Ve...</p>
                     </div>
                 </div>
@@ -74,16 +74,17 @@
                     </div>
                     <div class="media-body">
                         <h5 class="stars">
-                         <a href="#">John Doe</a>
-                         <span class="rating">
-                         <span class="rating-stars" data-rating="3">
-                         <i class="fa fa-star-o"></i>
-                         <i class="fa fa-star-o"></i>
-                         <i class="fa fa-star-o star-active"></i>
-                         <i class="fa fa-star-o"></i>
-                         <i class="fa fa-star-o"></i>
-                         </span>
-                         </span>
+                            <a href="#">John Doe</a>
+                            <span class="rating">
+                                <span class="rating-stars">
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                </span>
+                            </span>
+                        </h5>
                       </h5>
                         <p class="color-mid">Vivamus sem massa, cursus at mollis eu, euismod id risus. Ve...</p>
                     </div>
@@ -98,17 +99,17 @@
                     </div>
                     <div class="media-body">
                         <h5 class="stars">
-                         <a href="#">John Doe</a>
-                         <span class="rating">
-                         <span class="rating-stars" data-rating="3">
-                         <i class="fa fa-star-o"></i>
-                         <i class="fa fa-star-o"></i>
-                         <i class="fa fa-star-o star-active"></i>
-                         <i class="fa fa-star-o"></i>
-                         <i class="fa fa-star-o"></i>
-                         </span>
-                         </span>
-                      </h5>
+                            <a href="#">John Doe</a>
+                            <span class="rating">
+                                <span class="rating-stars">
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                    <i class="fa fa-star-o"></i>
+                                </span>
+                            </span>
+                        </h5>
                         <p class="color-mid">Vivamus sem massa, cursus at mollis eu, euismod id risus. Ve...</p>
                     </div>
                 </div>

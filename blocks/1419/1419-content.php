@@ -13,7 +13,7 @@
 
 <div class="type-1419">
 	<div class="col-xs-12 ptb-10">
-        <div class="widget best-rated-deals panel pt-20 prl-20">
+        <div class="widget best-rated-deals panel">
             <h3 class="widget-title">Best Rated Deals</h3>
             <div class="widget-body">
                 <div class="media">
@@ -30,7 +30,7 @@
                         	<span class="rating">
                         		<span class="rating-stars" data-rating="4">
 			                        <i class="fa fa-star-o"></i>
-			                        <i class="fa fa-star-o star-active"></i>
+			                        <i class="fa fa-star-o"></i>
 			                        <i class="fa fa-star-o"></i>
 			                        <i class="fa fa-star-o"></i>
 			                        <i class="fa fa-star-o"></i>
@@ -54,7 +54,7 @@
                         	<span class="rating">
                         		<span class="rating-stars" data-rating="4">
 			                        <i class="fa fa-star-o"></i>
-			                        <i class="fa fa-star-o star-active"></i>
+			                        <i class="fa fa-star-o"></i>
 			                        <i class="fa fa-star-o"></i>
 			                        <i class="fa fa-star-o"></i>
 			                        <i class="fa fa-star-o"></i>
@@ -78,7 +78,7 @@
                         	<span class="rating">
                         		<span class="rating-stars" data-rating="4">
 			                        <i class="fa fa-star-o"></i>
-			                        <i class="fa fa-star-o star-active"></i>
+			                        <i class="fa fa-star-o"></i>
 			                        <i class="fa fa-star-o"></i>
 			                        <i class="fa fa-star-o"></i>
 			                        <i class="fa fa-star-o"></i>
@@ -102,7 +102,7 @@
                         	<span class="rating">
                         		<span class="rating-stars" data-rating="4">
 			                        <i class="fa fa-star-o"></i>
-			                        <i class="fa fa-star-o star-active"></i>
+			                        <i class="fa fa-star-o"></i>
 			                        <i class="fa fa-star-o"></i>
 			                        <i class="fa fa-star-o"></i>
 			                        <i class="fa fa-star-o"></i>

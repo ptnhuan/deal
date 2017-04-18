@@ -58,9 +58,6 @@
     padding-left: 10px !important;
     padding-right: 10px !important;
   }
-  .type-1423 .form-control {
-    width: 125px !important;
-  }
 }
 .type-1423 .page-content {
   padding: 20px 10px;
@@ -165,7 +162,6 @@
   transition: all 600ms linear 0ms;
 }
 .type-1423 .page-content .blog-post .sub-content .entry-wrapper .entry-header a:hover {
-  text-decoration: none;
   color: #26cc71;
   -webkit-transition: all 600ms linear 0ms;
   -ms-transition: all 600ms linear 0ms;
@@ -187,7 +183,7 @@
   text-overflow: ellipsis;
 }
 .type-1423 .page-content .blog-post .sub-content .entry-wrapper .entry-footer .btn-link,
-.type-1423 .page-content .blog-post .sub-content .entry-wrapper .entry-footer .btn.btn-o {
+.type-1423 .page-content .blog-post .sub-content .entry-wrapper .entry-footer .btn {
   color: #2ed87b;
   background-color: transparent;
 }

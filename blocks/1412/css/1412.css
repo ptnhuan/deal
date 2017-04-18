@@ -12,13 +12,7 @@
 .type-1412 .page-main h3,
 .type-1412 .page-main h4,
 .type-1412 .page-main h5,
-.type-1412 .page-main h6,
-.type-1412 .page-main .h1,
-.type-1412 .page-main .h2,
-.type-1412 .page-main .h3,
-.type-1412 .page-main .h4,
-.type-1412 .page-main .h5,
-.type-1412 .page-main .h6 {
+.type-1412 .page-main h6 {
   display: block;
   line-height: 1.4;
   font-weight: 400;
@@ -93,9 +87,6 @@
     display: inline-block !important;
     padding-left: 10px !important;
     padding-right: 10px !important;
-  }
-  .type-1412 .page-main .form-control {
-    width: 125px !important;
   }
 }
 .type-1412 .page-main .pagination-area {

@@ -3,14 +3,12 @@
     border: none;
     height: auto;
     @color_icon: #2ed87b; 
-    @color_icon_sale: #ff3100;
-    @color_write: #314555;
 
     .mb-20 {
 	    margin-bottom: 20px !important;
 	}
     .color-green {
-	    color: #2ed87b !important;
+	    color: @color_icon !important;
 	}
 	.color-mid {
 	    color: #717f86 !important;
@@ -38,7 +36,7 @@
 	    transition: all ease-in-out 300ms;
 	}
 	.form-control:focus {
-	    border-color: #2ed87b;
+	    border-color: @color_icon;
 	    -webkit-box-shadow: none !important;
 	    box-shadow: none !important;
 	}
@@ -104,8 +102,8 @@
 				    position: absolute;
 				    content: "";
 				    width: 24px;
-				    border-color: #2ed87b;
-					background-color: #2ed87b;
+				    border-color: @color_icon;
+					background-color: @color_icon;
 				    height: 24px;
 				    left: 0;
 				    top: 0;
@@ -138,7 +136,7 @@
 				    transition: all 0.4s ease-in-out;
 				}
 				.btn {
-				    background-color: #2ed87b;
+				    background-color: @color_icon;
 				    color: #fff;
 				    border-radius: 3px;
 				    -webkit-transition: all 0.4s ease-in-out;

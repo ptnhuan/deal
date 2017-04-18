@@ -4,6 +4,7 @@
     height: auto;
     @color_icon: #2ed87b; 
     @color_icon_sale: #ff3100;
+    @color_icon_delete: #F00;
     @color_write: #314555;
 
     .wishlist-area {
@@ -87,7 +88,7 @@
 
 					    a {
 					    	text-decoration: none;
-					    	color: #314555;
+					    	color: @color_write;
 					    	-webkit-transition: all 400ms linear 0ms;
 			                -ms-transition: all 400ms linear 0ms;
 			                -o-transition: all 400ms linear 0ms;
@@ -103,7 +104,7 @@
 					    }
 				    }
 				    .rating {
-					    color: #ff3100;
+					    color: @color_icon_sale;
 					    margin-bottom: 10px !important;
 
 					    .rate-allow {
@@ -204,7 +205,7 @@
 
 				    .fa-trash-o {
 					    font-size: 18px;
-					    color: #F00;
+					    color: @color_icon_delete;
 					}
 				}
 		    }

@@ -17,7 +17,7 @@
             <h3 class="sign-title">Sign In <small>Or <a href="#" class="color-green">Sign Up</a></small></h3>
             <div class="row frm">
                 <div class="col-sm-6 col-md-7 col-left">
-                    <form class="p-40" action="#" method="post">
+                    <form action="#" method="post">
                         <div class="form-group">
                             <label class="sr-only">Email</label>
                             <input type="text" class="form-control input-lg" placeholder="Email">
@@ -30,7 +30,7 @@
                             <a href="#" class="color-green">Forget Youe Password ?</a>
                         </div>
                         <div class="custom-checkbox mb-20">
-                            <input type="checkbox" id="remember_account" checked="">
+                            <input type="checkbox">
                             <label class="color-mid" for="remember_account">Keep me signed in on this computer.</label>
                         </div>
                         <button type="submit" class="btn btn-block btn-lg">Sign In</button>
@@ -49,7 +49,7 @@
                             <button class="btn btn-lg btn-block btn-social btn-google-plus"><i class="fa fa-google-plus"></i>Sign In with Google</button>
                         </div>
                         <div class="custom-checkbox mb-20">
-                            <input type="checkbox" id="remember_social" checked="">
+                            <input type="checkbox">
                             <label class="color-mid" for="remember_social">Keep me signed in on this computer.</label>
                         </div>
                         <div class="text-center color-mid account">

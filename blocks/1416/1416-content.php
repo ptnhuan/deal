@@ -50,14 +50,14 @@
                                 <div class="col-xs-12">
                                     <div class="panel-body">
                                         <ul class="deal-meta list-inline">
-                                            <li class="color-green"><i class="lnr lnr-smile mr-5"></i>Verifed</li>
-                                            <li class="color-muted"><i class="lnr lnr-users mr-5"></i>125 Used</li>
+                                            <li class="color-green"><i class="lnr lnr-smile"></i>Verifed</li>
+                                            <li class="color-muted"><i class="lnr lnr-users"></i>125 Used</li>
                                         </ul>
                                         <h4 class="color-green">10% OFF</h4>
                                         <h5 class="deal-title">
                                             <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                         </h5>
-                                        <p class="color-muted"><i class="lnr lnr-clock mr-10"></i>Expires On 01/01/2018</p>
+                                        <p class="color-muted"><i class="lnr lnr-clock"></i>Expires On 01/01/2018</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Get Coupon Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -78,14 +78,14 @@
                                 <div class="col-xs-12">
                                     <div class="panel-body">
                                         <ul class="deal-meta list-inline">
-                                            <li class="color-green"><i class="lnr lnr-smile mr-5"></i>Verifed</li>
-                                            <li class="color-muted"><i class="lnr lnr-users mr-5"></i>125 Used</li>
+                                            <li class="color-green"><i class="lnr lnr-smile"></i>Verifed</li>
+                                            <li class="color-muted"><i class="lnr lnr-users"></i>125 Used</li>
                                         </ul>
                                         <h4 class="color-green">10% OFF</h4>
                                         <h5 class="deal-title">
                                             <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                         </h5>
-                                        <p class="color-muted"><i class="lnr lnr-clock mr-10"></i>Expires On 01/01/2018</p>
+                                        <p class="color-muted"><i class="lnr lnr-clock"></i>Expires On 01/01/2018</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Get Coupon Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -106,14 +106,14 @@
                                 <div class="col-xs-12">
                                     <div class="panel-body">
                                         <ul class="deal-meta list-inline">
-                                            <li class="color-green"><i class="lnr lnr-smile mr-5"></i>Verifed</li>
-                                            <li class="color-muted"><i class="lnr lnr-users mr-5"></i>125 Used</li>
+                                            <li class="color-green"><i class="lnr lnr-smile"></i>Verifed</li>
+                                            <li class="color-muted"><i class="lnr lnr-users"></i>125 Used</li>
                                         </ul>
                                         <h4 class="color-green">10% OFF</h4>
                                         <h5 class="deal-title">
                                             <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                         </h5>
-                                        <p class="color-muted"><i class="lnr lnr-clock mr-10"></i>Expires On 01/01/2018</p>
+                                        <p class="color-muted"><i class="lnr lnr-clock"></i>Expires On 01/01/2018</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Get Coupon Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -134,14 +134,14 @@
                                 <div class="col-xs-12">
                                     <div class="panel-body">
                                         <ul class="deal-meta list-inline">
-                                            <li class="color-green"><i class="lnr lnr-smile mr-5"></i>Verifed</li>
-                                            <li class="color-muted"><i class="lnr lnr-users mr-5"></i>125 Used</li>
+                                            <li class="color-green"><i class="lnr lnr-smile"></i>Verifed</li>
+                                            <li class="color-muted"><i class="lnr lnr-users"></i>125 Used</li>
                                         </ul>
                                         <h4 class="color-green">10% OFF</h4>
                                         <h5 class="deal-title">
                                             <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                         </h5>
-                                        <p class="color-muted"><i class="lnr lnr-clock mr-10"></i>Expires On 01/01/2018</p>
+                                        <p class="color-muted"><i class="lnr lnr-clock"></i>Expires On 01/01/2018</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Get Coupon Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -162,14 +162,14 @@
                                 <div class="col-xs-12">
                                     <div class="panel-body">
                                         <ul class="deal-meta list-inline">
-                                            <li class="color-green"><i class="lnr lnr-smile mr-5"></i>Verifed</li>
-                                            <li class="color-muted"><i class="lnr lnr-users mr-5"></i>125 Used</li>
+                                            <li class="color-green"><i class="lnr lnr-smile"></i>Verifed</li>
+                                            <li class="color-muted"><i class="lnr lnr-users"></i>125 Used</li>
                                         </ul>
                                         <h4 class="color-green">10% OFF</h4>
                                         <h5 class="deal-title">
                                             <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                         </h5>
-                                        <p class="color-muted"><i class="lnr lnr-clock mr-10"></i>Expires On 01/01/2018</p>
+                                        <p class="color-muted"><i class="lnr lnr-clock"></i>Expires On 01/01/2018</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Get Coupon Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -190,14 +190,14 @@
                                 <div class="col-xs-12">
                                     <div class="panel-body">
                                         <ul class="deal-meta list-inline">
-                                            <li class="color-green"><i class="lnr lnr-smile mr-5"></i>Verifed</li>
-                                            <li class="color-muted"><i class="lnr lnr-users mr-5"></i>125 Used</li>
+                                            <li class="color-green"><i class="lnr lnr-smile"></i>Verifed</li>
+                                            <li class="color-muted"><i class="lnr lnr-users"></i>125 Used</li>
                                         </ul>
                                         <h4 class="color-green">10% OFF</h4>
                                         <h5 class="deal-title">
                                             <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                         </h5>
-                                        <p class="color-muted"><i class="lnr lnr-clock mr-10"></i>Expires On 01/01/2018</p>
+                                        <p class="color-muted"><i class="lnr lnr-clock"></i>Expires On 01/01/2018</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Get Coupon Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -218,14 +218,14 @@
                                 <div class="col-xs-12">
                                     <div class="panel-body">
                                         <ul class="deal-meta list-inline">
-                                            <li class="color-green"><i class="lnr lnr-smile mr-5"></i>Verifed</li>
-                                            <li class="color-muted"><i class="lnr lnr-users mr-5"></i>125 Used</li>
+                                            <li class="color-green"><i class="lnr lnr-smile"></i>Verifed</li>
+                                            <li class="color-muted"><i class="lnr lnr-users"></i>125 Used</li>
                                         </ul>
                                         <h4 class="color-green">10% OFF</h4>
                                         <h5 class="deal-title">
                                             <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                         </h5>
-                                        <p class="color-muted"><i class="lnr lnr-clock mr-10"></i>Expires On 01/01/2018</p>
+                                        <p class="color-muted"><i class="lnr lnr-clock"></i>Expires On 01/01/2018</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Get Coupon Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -246,14 +246,14 @@
                                 <div class="col-xs-12">
                                     <div class="panel-body">
                                         <ul class="deal-meta list-inline">
-                                            <li class="color-green"><i class="lnr lnr-smile mr-5"></i>Verifed</li>
-                                            <li class="color-muted"><i class="lnr lnr-users mr-5"></i>125 Used</li>
+                                            <li class="color-green"><i class="lnr lnr-smile"></i>Verifed</li>
+                                            <li class="color-muted"><i class="lnr lnr-users"></i>125 Used</li>
                                         </ul>
                                         <h4 class="color-green">10% OFF</h4>
                                         <h5 class="deal-title">
                                             <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                         </h5>
-                                        <p class="color-muted"><i class="lnr lnr-clock mr-10"></i>Expires On 01/01/2018</p>
+                                        <p class="color-muted"><i class="lnr lnr-clock"></i>Expires On 01/01/2018</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Get Coupon Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -277,14 +277,14 @@
                                 <div class="col-xs-12">
                                     <div class="panel-body">
                                         <ul class="deal-meta list-inline">
-                                            <li class="color-green"><i class="lnr lnr-smile mr-5"></i>Verifed</li>
-                                            <li class="color-muted"><i class="lnr lnr-users mr-5"></i>125 Used</li>
+                                            <li class="color-green"><i class="lnr lnr-smile"></i>Verifed</li>
+                                            <li class="color-muted"><i class="lnr lnr-users"></i>125 Used</li>
                                         </ul>
                                         <h4 class="color-green">10% OFF</h4>
                                         <h5 class="deal-title">
                                             <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                         </h5>
-                                        <p class="color-muted"><i class="lnr lnr-clock mr-10"></i>Expires On 01/01/2018</p>
+                                        <p class="color-muted"><i class="lnr lnr-clock"></i>Expires On 01/01/2018</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Get Coupon Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -305,14 +305,14 @@
                                 <div class="col-xs-12">
                                     <div class="panel-body">
                                         <ul class="deal-meta list-inline">
-                                            <li class="color-green"><i class="lnr lnr-smile mr-5"></i>Verifed</li>
-                                            <li class="color-muted"><i class="lnr lnr-users mr-5"></i>125 Used</li>
+                                            <li class="color-green"><i class="lnr lnr-smile"></i>Verifed</li>
+                                            <li class="color-muted"><i class="lnr lnr-users"></i>125 Used</li>
                                         </ul>
                                         <h4 class="color-green">10% OFF</h4>
                                         <h5 class="deal-title">
                                             <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                         </h5>
-                                        <p class="color-muted"><i class="lnr lnr-clock mr-10"></i>Expires On 01/01/2018</p>
+                                        <p class="color-muted"><i class="lnr lnr-clock"></i>Expires On 01/01/2018</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Get Coupon Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -333,14 +333,14 @@
                                 <div class="col-xs-12">
                                     <div class="panel-body">
                                         <ul class="deal-meta list-inline">
-                                            <li class="color-green"><i class="lnr lnr-smile mr-5"></i>Verifed</li>
-                                            <li class="color-muted"><i class="lnr lnr-users mr-5"></i>125 Used</li>
+                                            <li class="color-green"><i class="lnr lnr-smile"></i>Verifed</li>
+                                            <li class="color-muted"><i class="lnr lnr-users"></i>125 Used</li>
                                         </ul>
                                         <h4 class="color-green">10% OFF</h4>
                                         <h5 class="deal-title">
                                             <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                         </h5>
-                                        <p class="color-muted"><i class="lnr lnr-clock mr-10"></i>Expires On 01/01/2018</p>
+                                        <p class="color-muted"><i class="lnr lnr-clock"></i>Expires On 01/01/2018</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Get Coupon Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>
@@ -364,14 +364,14 @@
                                 <div class="col-xs-12">
                                     <div class="panel-body">
                                         <ul class="deal-meta list-inline">
-                                            <li class="color-green"><i class="lnr lnr-smile mr-5"></i>Verifed</li>
-                                            <li class="color-muted"><i class="lnr lnr-users mr-5"></i>125 Used</li>
+                                            <li class="color-green"><i class="lnr lnr-smile"></i>Verifed</li>
+                                            <li class="color-muted"><i class="lnr lnr-users"></i>125 Used</li>
                                         </ul>
                                         <h4 class="color-green">10% OFF</h4>
                                         <h5 class="deal-title">
                                             <a href="#">10% off select XPS &amp; Alienware laptops</a>
                                         </h5>
-                                        <p class="color-muted"><i class="lnr lnr-clock mr-10"></i>Expires On 01/01/2018</p>
+                                        <p class="color-muted"><i class="lnr lnr-clock"></i>Expires On 01/01/2018</p>
                                         <div class="showcode">
                                             <button class="show-code btn btn-sm btn-block">Get Coupon Code</button>
                                             <div class="coupon-hide">X455-17GT-OL58</div>

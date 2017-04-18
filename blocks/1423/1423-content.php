@@ -22,7 +22,7 @@
                         <article class="entry panel">
                             <div class="row content">
                                 <div class="col-xs-12 col-md-6 col-lg-5 p-0 row-md-cell">
-                                    <figure class="entry-media post-thumbnail embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_01.jpg" style="background-image: url(images/post_01.jpg);">
+                                    <figure class="embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_01.jpg" style="background-image: url(images/post_01.jpg);">
                                         <div class="entry-date">
                                             <h4>13</h4>
                                             <h6>JUN</h6>
@@ -44,12 +44,12 @@
                                         </header>
 
                                         <div class="entry-content">
-                                            <p class="entry-summary">Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
+                                            <p>Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
                                         </div>
                                         <!-- .entry-wrapper -->
 
                                         <footer class="entry-footer text-right">
-                                            <a href="#" class="more-link btn btn-link">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
+                                            <a href="#" class="btn btn-link">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
                                         </footer>
                                     </div>
                                 </div>
@@ -62,7 +62,7 @@
                         <article class="entry panel">
                             <div class="row content">
                                 <div class="col-xs-12 col-md-6 col-lg-5 p-0 row-md-cell">
-                                    <figure class="entry-media post-thumbnail embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_02.jpg" style="background-image: url(images/post_02.jpg);">
+                                    <figure class="embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_02.jpg" style="background-image: url(images/post_02.jpg);">
                                         <div class="entry-date">
                                             <h4>13</h4>
                                             <h6>JUN</h6>
@@ -84,12 +84,12 @@
                                         </header>
 
                                         <div class="entry-content">
-                                            <p class="entry-summary">Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
+                                            <p>Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
                                         </div>
                                         <!-- .entry-wrapper -->
 
                                         <footer class="entry-footer text-right">
-                                            <a href="#" class="more-link btn btn-link">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
+                                            <a href="#" class="btn">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
                                         </footer>
                                     </div>
                                 </div>
@@ -102,7 +102,7 @@
                         <article class="entry panel">
                             <div class="row content">
                                 <div class="col-xs-12 col-md-6 col-lg-5 p-0 row-md-cell">
-                                    <figure class="entry-media post-thumbnail embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_03.jpg" style="background-image: url(images/post_03.jpg);">
+                                    <figure class="embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_03.jpg" style="background-image: url(images/post_03.jpg);">
                                         <div class="entry-date">
                                             <h4>13</h4>
                                             <h6>JUN</h6>
@@ -124,12 +124,12 @@
                                         </header>
 
                                         <div class="entry-content">
-                                            <p class="entry-summary">Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
+                                            <p>Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
                                         </div>
                                         <!-- .entry-wrapper -->
 
                                         <footer class="entry-footer text-right">
-                                            <a href="#" class="more-link btn btn-link">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
+                                            <a href="#" class="btn">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
                                         </footer>
                                     </div>
                                 </div>
@@ -142,7 +142,7 @@
                         <article class="entry panel">
                             <div class="row content">
                                 <div class="col-xs-12 col-md-6 col-lg-5 p-0 row-md-cell">
-                                    <figure class="entry-media post-thumbnail embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_04.jpg" style="background-image: url(images/post_04.jpg);">
+                                    <figure class="embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_04.jpg" style="background-image: url(images/post_04.jpg);">
                                         <div class="entry-date">
                                             <h4>13</h4>
                                             <h6>JUN</h6>
@@ -164,12 +164,12 @@
                                         </header>
 
                                         <div class="entry-content">
-                                            <p class="entry-summary">Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
+                                            <p>Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
                                         </div>
                                         <!-- .entry-wrapper -->
 
                                         <footer class="entry-footer text-right">
-                                            <a href="#" class="more-link btn btn-link">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
+                                            <a href="#" class="btn">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
                                         </footer>
                                     </div>
                                 </div>
@@ -182,7 +182,7 @@
                         <article class="entry panel">
                             <div class="row content">
                                 <div class="col-xs-12 col-md-6 col-lg-5 p-0 row-md-cell">
-                                    <figure class="entry-media post-thumbnail embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_05.jpg" style="background-image: url(images/post_05.jpg);">
+                                    <figure class="embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_05.jpg" style="background-image: url(images/post_05.jpg);">
                                         <div class="entry-date">
                                             <h4>13</h4>
                                             <h6>JUN</h6>
@@ -204,12 +204,12 @@
                                         </header>
 
                                         <div class="entry-content">
-                                            <p class="entry-summary">Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
+                                            <p>Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
                                         </div>
                                         <!-- .entry-wrapper -->
 
                                         <footer class="entry-footer text-right">
-                                            <a href="#" class="more-link btn btn-link">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
+                                            <a href="#" class="btn">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
                                         </footer>
                                     </div>
                                 </div>
@@ -222,7 +222,7 @@
                         <article class="entry panel">
                             <div class="row content">
                                 <div class="col-xs-12 col-md-6 col-lg-5 p-0 row-md-cell">
-                                    <figure class="entry-media post-thumbnail embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_06.jpg" style="background-image: url(images/post_06.jpg);">
+                                    <figure class="embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_06.jpg" style="background-image: url(images/post_06.jpg);">
                                         <div class="entry-date">
                                             <h4>13</h4>
                                             <h6>JUN</h6>
@@ -244,12 +244,12 @@
                                         </header>
 
                                         <div class="entry-content">
-                                            <p class="entry-summary">Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
+                                            <p>Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
                                         </div>
                                         <!-- .entry-wrapper -->
 
                                         <footer class="entry-footer text-right">
-                                            <a href="#" class="more-link btn btn-link">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
+                                            <a href="#" class="btn">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
                                         </footer>
                                     </div>
                                 </div>
@@ -262,7 +262,7 @@
                         <article class="entry panel">
                             <div class="row content">
                                 <div class="col-xs-12 col-md-6 col-lg-5 p-0 row-md-cell">
-                                    <figure class="entry-media post-thumbnail embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_07.jpg" style="background-image: url(images/post_07.jpg);">
+                                    <figure class="embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_07.jpg" style="background-image: url(images/post_07.jpg);">
                                         <div class="entry-date">
                                             <h4>13</h4>
                                             <h6>JUN</h6>
@@ -284,12 +284,12 @@
                                         </header>
 
                                         <div class="entry-content">
-                                            <p class="entry-summary">Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
+                                            <p>Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
                                         </div>
                                         <!-- .entry-wrapper -->
 
                                         <footer class="entry-footer text-right">
-                                            <a href="#" class="more-link btn btn-link">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
+                                            <a href="#" class="btn">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
                                         </footer>
                                     </div>
                                 </div>
@@ -302,7 +302,7 @@
                         <article class="entry panel">
                             <div class="row content">
                                 <div class="col-xs-12 col-md-6 col-lg-5 p-0 row-md-cell">
-                                    <figure class="entry-media post-thumbnail embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_08.jpg" style="background-image: url(images/post_08.jpg);">
+                                    <figure class="embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_08.jpg" style="background-image: url(images/post_08.jpg);">
                                         <div class="entry-date">
                                             <h4>13</h4>
                                             <h6>JUN</h6>
@@ -324,12 +324,12 @@
                                         </header>
 
                                         <div class="entry-content">
-                                            <p class="entry-summary">Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
+                                            <p>Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
                                         </div>
                                         <!-- .entry-wrapper -->
 
                                         <footer class="entry-footer text-right">
-                                            <a href="#" class="more-link btn btn-link">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
+                                            <a href="#" class="btn">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
                                         </footer>
                                     </div>
                                 </div>
@@ -342,7 +342,7 @@
                         <article class="entry panel">
                             <div class="row content">
                                 <div class="col-xs-12 col-md-6 col-lg-5 p-0 row-md-cell">
-                                    <figure class="entry-media post-thumbnail embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_09.jpg" style="background-image: url(images/post_09.jpg);">
+                                    <figure class="embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_09.jpg" style="background-image: url(images/post_09.jpg);">
                                         <div class="entry-date">
                                             <h4>13</h4>
                                             <h6>JUN</h6>
@@ -364,12 +364,12 @@
                                         </header>
 
                                         <div class="entry-content">
-                                            <p class="entry-summary">Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
+                                            <p>Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
                                         </div>
                                         <!-- .entry-wrapper -->
 
                                         <footer class="entry-footer text-right">
-                                            <a href="#" class="more-link btn btn-link">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
+                                            <a href="#" class="btn">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
                                         </footer>
                                     </div>
                                 </div>
@@ -382,7 +382,7 @@
                         <article class="entry panel">
                             <div class="row content">
                                 <div class="col-xs-12 col-md-6 col-lg-5 p-0 row-md-cell">
-                                    <figure class="entry-media post-thumbnail embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_10.jpg" style="background-image: url(images/post_10.jpg);">
+                                    <figure class="embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_10.jpg" style="background-image: url(images/post_10.jpg);">
                                         <div class="entry-date">
                                             <h4>13</h4>
                                             <h6>JUN</h6>
@@ -404,12 +404,12 @@
                                         </header>
 
                                         <div class="entry-content">
-                                            <p class="entry-summary">Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
+                                            <p>Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
                                         </div>
                                         <!-- .entry-wrapper -->
 
                                         <footer class="entry-footer text-right">
-                                            <a href="#" class="more-link btn btn-link">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
+                                            <a href="#" class="btn">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
                                         </footer>
                                     </div>
                                 </div>
@@ -422,7 +422,7 @@
                         <article class="entry panel">
                             <div class="row content">
                                 <div class="col-xs-12 col-md-6 col-lg-5 p-0 row-md-cell">
-                                    <figure class="entry-media post-thumbnail embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_11.jpg" style="background-image: url(images/post_11.jpg);">
+                                    <figure class="embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_11.jpg" style="background-image: url(images/post_11.jpg);">
                                         <div class="entry-date">
                                             <h4>13</h4>
                                             <h6>JUN</h6>
@@ -444,12 +444,12 @@
                                         </header>
 
                                         <div class="entry-content">
-                                            <p class="entry-summary">Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
+                                            <p>Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
                                         </div>
                                         <!-- .entry-wrapper -->
 
                                         <footer class="entry-footer text-right">
-                                            <a href="#" class="more-link btn btn-link">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
+                                            <a href="#" class="btn">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
                                         </footer>
                                     </div>
                                 </div>
@@ -462,7 +462,7 @@
                         <article class="entry panel">
                             <div class="row content">
                                 <div class="col-xs-12 col-md-6 col-lg-5 p-0 row-md-cell">
-                                    <figure class="entry-media post-thumbnail embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_12.jpg" style="background-image: url(images/post_12.jpg);">
+                                    <figure class="embed-responsive embed-responsive-16by9 col-absolute-cell" data-bg-img="images/post_12.jpg" style="background-image: url(images/post_12.jpg);">
                                         <div class="entry-date">
                                             <h4>13</h4>
                                             <h6>JUN</h6>
@@ -484,12 +484,12 @@
                                         </header>
 
                                         <div class="entry-content">
-                                            <p class="entry-summary">Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
+                                            <p>Vivamus sem massa, cursus at mollis eu, euismod id risus. Vestibulum nunc ante, sagittis ut nisl at, porta porttitor justo. Nam imperdiet im...</p>
                                         </div>
                                         <!-- .entry-wrapper -->
 
                                         <footer class="entry-footer text-right">
-                                            <a href="#" class="more-link btn btn-link">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
+                                            <a href="#" class="btn">Continue reading <i class="icon fa fa-long-arrow-right"></i></a>
                                         </footer>
                                     </div>
                                 </div>
