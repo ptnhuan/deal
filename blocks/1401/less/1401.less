@@ -2,17 +2,22 @@
     border: none;
     height: auto;
     font-family: 'Montserrat', sans-serif;
-    @color_active: #2ed87b;
-    @color_bg: #314555;;   
+    @color_icon: #2ed87b;
+    @color_bg: #314555;
     @color_write: #fff;
-    @color_sub_menu: #314555;
-    @font-size: 12px;
 
     .top-menu {
     	background-color: @color_bg;
+
+    	a, a:hover {
+    		text-decoration: none;
+    	}
     	
     	.menu {
     		font-size: 13px;
+    	}
+    	.pl-15 {
+    		padding-left: 15px!important;
     	}
 
     	.btn-menu {
@@ -20,6 +25,8 @@
 		    vertical-align: middle;
 		    cursor: pointer;
 		    width: 40px;
+		    margin-top: 9px!important;
+		    margin-bottom: 9px!important;
 		    padding: 10px 4px;
 		    left: 0;
 
@@ -42,9 +49,6 @@
     		margin-bottom: 0px;
     		border: 0;
 
-    		.indicator {
-    			margin-left: 10px;
-    		}
     		a {
     			color: @color_write;
     			height: 60px;
@@ -57,19 +61,27 @@
 			    -moz-transition: all 1s ease 0s;
 			    -o-transition: all 1s ease 0s;
     		}
-    		li:hover {
-	    		a {
-    				color: @color_active;
-    				background-color: rgba(0, 0, 0, 0)!important;
-    			}
-	    	}
     	}
+   		.nav-menu-fixed {
+   			position: absolute;
+		    top: 0;
+		    right: 0;
+    		a {
+    			background-color: @color_icon;
+   				text-transform: uppercase;
+   				display: inline-block;
+
+   				i {
+   					margin-left: 10px;
+   				}
+    		}
+	    }
     	.mega-menu {
 			a {
 				height: 25px;
     			line-height: 30px;
     			display: block;
-		    	color: @color_sub_menu;
+		    	color: @color_bg;
 		    	transition: all 0.7s ease 0s;
 			    -webkit-transition: all 0.7s ease 0s;
 			    -moz-transition: all 0.7s ease 0s;
@@ -78,7 +90,7 @@
 			li:hover {
 				a {
 		    		background-color: #f1f1f1;;
-			    	color: @color_active;
+			    	color: @color_icon!important;
 			    	display: block;
 			    	transition: all 0.7s ease 0s;
 				    -webkit-transition: all 0.7s ease 0s;
@@ -94,6 +106,11 @@
 			    -o-background-size: cover;
 			    background-size: cover;
 
+			    .deal-title {
+				    a, a:hover, a:focus {
+				    	background-color: transparent!important;
+				    }
+			    }
 			    .label-discount {
 			    	right: 10px !important;
 			    	top: 10px !important;
@@ -151,14 +168,13 @@
 				}
 			}	
 		}
-    	.dropdown-mega-menu {
+		.dropdown-mega-menu {
 		    position: static;
 		    .mega-menu {
 			    width: 100%;
 			    top: 100%;
 			    left: 0;
 			    padding: 15px 20px;
-			    display: none;
 			    background: #fff;
 			    margin: 0;
 			    min-width: 200px;
@@ -171,7 +187,7 @@
     				a {
     					height: 35px;
     					line-height: 35px;
-    					color: @color_sub_menu;
+    					color: @color_bg;
     					padding: 0px;
     				}
     				a:hover {
@@ -186,60 +202,63 @@
     			display: none;
     		}
     		nav {
-	    		a:hover {
-	    			background-color: @color_active;
-	    			text-decoration: none;
-	    			transition: all 1s ease 0s;
-				    -webkit-transition: all 1s ease 0s;
-				    -moz-transition: all 1s ease 0s;
-				    -o-transition: all 1s ease 0s;
-	    		}
-	    		li:hover {
-	    			.sub-menu {
-				    	display: block;
-				    }
-	    		}
 	    		.active {
 	    			a {
-	    				background-color: @color_active;
+	    				background-color: @color_icon;
 	    			}
 	    		}
+	    		li:hover {
+		    		.item-menu {
+	    				background-color: @color_icon;
+	    			}
+	    			.sub-menu {
+			    		display: block;
+			    	}
+		    	}
+		    	.indicator {
+	    			margin-left: 10px;
+	    		}
+	    		a:focus {
+	    			background-color: @color_bg;
+	    		}
 	    	}
-    		.sub-menu {
-				background: #fff;
+	    	.sub-menu {
+				background: #fff!important;
 			    margin: 0;
 			    display: none;
 			    min-width: 180px;
 			    position: absolute;
-			    z-index: 99;
+			    z-index: 10;
 			    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
 			    a {
 				 	height: 35px;
 	    			line-height: 40px;
 	    			display: block;
-			    	color: @color_sub_menu!important;
+			    	color: @color_bg!important;
 			    }
 			    li {
 			    	position: relative;
 			    }
 			    li:hover {
-			    	a {
-			    		background-color: #f1f1f1;;
-				    	color: @color_active!important;
+			    	a {	
+			    		background-color: #f1f1f1!important;
+				    	color: @color_icon!important;
 				    	display: block;
-				    	transition: all 0.7s ease 0s;
-					    -webkit-transition: all 0.7s ease 0s;
-					    -moz-transition: all 0.7s ease 0s;
-					    -o-transition: all 0.7s ease 0s;
+				    	transition: all 0.6s ease 0s;
+					    -webkit-transition: all 0.6s ease 0s;
+					    -moz-transition: all 0.6s ease 0s;
+					    -o-transition: all 0.6s ease 0s;
 			    	}
 			    	ul {
 			    		display: block;
+
 			    		a {
 			    			background-color: #fff!important;
-			    			color: @color_sub_menu!important;
+			    			color: @color_bg!important;
 			    		}
 			    		a:hover {
-			    			color: @color_active!important;
+			    			color: @color_icon!important;
+			    			background-color: #f1f1f1!important;
 			    		}
 			    	}
 			    }
@@ -249,6 +268,7 @@
 				    right: 15px;
 				}
 				ul {
+					display: none;
 					top: 0;
 				    left: 100%;
 				    background: #fff;
@@ -258,20 +278,13 @@
 				    position: absolute;
 				    z-index: 99;
 				    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
-
-				    li:hover {
-					    a {
-					    	background-color: #f1f1f1;;
-					    	color: @color_active;
-					    	display: block;
-					    	transition: all 0.7s ease 0s;
-						    -webkit-transition: all 0.7s ease 0s;
-						    -moz-transition: all 0.7s ease 0s;
-						    -o-transition: all 0.7s ease 0s;
-					    }
-				    }
 				}
 			}
+			.dropdown-mega-menu {
+	    		.mega-menu {
+	    			display: none;
+	    		}
+    		}
 			.dropdown-mega-menu:hover {
 	    		.mega-menu {
 	    			display: block;
@@ -279,20 +292,81 @@
     		}
     	}
     	@media (max-width: 992px) {
-	    	.menu {
+	    	.navbar-header {
+	    		width: 100%;
+	    	}
+	   		.mega-menu {
+	   			padding-top: 0px!important;
+	   			padding-bottom: 0px!important;
+	   		}
+	    	.menu-content {
+	    		background-color: #fff!important;
+
+	    		.dropdown-mega-menu {
+	    			.mega-menu {
+				    	position: relative;
+					}
+				}
 	    		li {
-	    			width: 100%;
+	    			border-bottom: 1px solid #eee;
+	    		}
+	    		a:focus {
+	    			background-color: #f1f1f1!important;
+	    		}
+	    		li:last-child {
+	    			border-bottom: none;
+	    		}
+	    		a {
+	    			height: 40px;
+    				line-height: 40px;
+	    			color: @color_bg!important;
+	    			background-color: #fff!important;
+	    			transition: all 1s ease 0s;
+				    -webkit-transition: all 1s ease 0s;
+				    -moz-transition: all 1s ease 0s;
+				    -o-transition: all 1s ease 0s;
+	    		}
+	    		a:hover {
+	    			color: @color_icon!important;
+	    			background-color: #f1f1f1!important;
+	    			transition: all 1s ease 0s;
+				    -webkit-transition: all 1s ease 0s;
+				    -moz-transition: all 1s ease 0s;
+				    -o-transition: all 1s ease 0s;
 	    		}
 	    		.indicator {
-	    			float: right;
-				    top: 40%;
-				    position: relative;
+				    position: absolute;
+				    top: 15px;
+				    right: 15px;
+	    		}
+	    		.active {
+	    			a {
+	    				color: @color_icon!important;
+			    		background-color: #f1f1f1!important;
+	    			}
+	    		}
+	    		.sub-sub-menu {
+	    			border-left: 1px solid #eee;
+	    			padding-left: 30px;
+
+    				a {
+    					display: block;
+    				}
+	    		}
+	    		.sub-menu {
+	    			padding-left: 15px;
+	    			li {
+	    				a {
+	    					display: block;
+	    				}
+	    			}
 	    		}
 	    	}
-    		.mega-menu {
-    	    	position: static!important;
-    	    	display: block!important;
-    		}
+    	}
+    	@media (min-width: 768px) and (max-width: 992px) {
+    		.navbar-header {
+	    		float: none;
+	    	}
     	}
     }
     
