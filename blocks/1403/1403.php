@@ -39,7 +39,9 @@
     <div class="container">
         <div class="section">
             <div class="row row-tl-20">
-                <?php include './1403-content.php'; ?>  
+                <div class="col-lg-9 col-md-8 col-xs-12 pull-right">
+                    <?php include './1403-content.php'; ?>  
+                </div>
             </div>
         </div>
     </div>

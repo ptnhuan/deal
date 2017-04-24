@@ -35,7 +35,9 @@
     <div class="container">
         <div class="section">
             <div class="row row-tl-20">
-                <?php include './1402-content.php'; ?>  
+                <div class="col-lg-3 col-md-4 col-xs-12">
+                    <?php include './1402-content.php'; ?> 
+                </div> 
             </div>
         </div>
     </div>
