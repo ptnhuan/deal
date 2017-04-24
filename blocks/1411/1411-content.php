@@ -31,7 +31,7 @@
                         </div>
                         <div class="custom-checkbox mb-20">
                             <input type="checkbox">
-                            <label class="color-mid" for="remember_account">Keep me signed in on this computer.</label>
+                            <label class="check color-mid" for="remember_account">Keep me signed in on this computer.</label>
                         </div>
                         <button type="submit" class="btn btn-block btn-lg">Sign In</button>
                     </form>
@@ -50,7 +50,7 @@
                         </div>
                         <div class="custom-checkbox mb-20">
                             <input type="checkbox">
-                            <label class="color-mid" for="remember_social">Keep me signed in on this computer.</label>
+                            <label class="check color-mid" for="remember_social">Keep me signed in on this computer.</label>
                         </div>
                         <div class="text-center color-mid account">
                             Need an Account ? <a href="#" class="color-green">Create Account</a>

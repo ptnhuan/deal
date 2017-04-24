@@ -17,6 +17,8 @@
     <link href="css/swiper.min.css" rel="stylesheet" type="text/css"/>
     <script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
     <script src="js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="js/swiper.min.js" type="text/javascript"></script>
+    <script src="js/type-1403.js" type="text/javascript"></script>
 
     <style type="text/css">
         .section {
@@ -43,6 +45,4 @@
     </div>
 
 </body>
-<script src="js/swiper.min.js" type="text/javascript"></script>
-<script src="js/type-1403.js" type="text/javascript"></script>
 </html>

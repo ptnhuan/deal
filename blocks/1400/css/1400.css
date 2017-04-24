@@ -60,7 +60,6 @@
   position: absolute;
   top: 100%;
   left: 0;
-  text-align: left;
   background: #fff;
   border: 1px solid #eee;
   min-width: 200px;
@@ -215,7 +214,6 @@
   display: inline-block;
   padding-left: 40px;
   vertical-align: top;
-  text-align: left;
 }
 .type-1400 .search .header-cart .cart-number {
   display: inline-block;
@@ -233,7 +231,6 @@
   display: inline-block;
   padding-left: 40px;
   vertical-align: top;
-  text-align: left;
   margin-left: 20px;
 }
 @media (max-width: 437px) {

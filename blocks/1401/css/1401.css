@@ -16,6 +16,14 @@
 .type-1401 .top-menu .pl-15 {
   padding-left: 15px !important;
 }
+.type-1401 .top-menu .menu {
+  margin-bottom: 0px !important;
+}
+.type-1401 .top-menu .menu .panel {
+  margin-top: 0px !important;
+  background-color: rgba(0,0,0,0) !important;
+  border: none;
+}
 .type-1401 .top-menu .btn-menu {
   display: inline-block;
   vertical-align: middle;

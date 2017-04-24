@@ -3,6 +3,7 @@
     height: auto;
     font-family: 'Montserrat', sans-serif;
     @color_icon: #2ed87b;
+    @color_icon_sale: #ff3100;
     @color_bg: #314555;
     @color_write: #fff;
 
@@ -20,6 +21,15 @@
     		padding-left: 15px!important;
     	}
 
+    	.menu {
+    		margin-bottom: 0px!important;
+
+    		.panel {
+    			margin-top: 0px!important;
+    			background-color: rgba(0,0,0,0)!important;
+    			border: none;
+    		}
+    	}
     	.btn-menu {
     		display: inline-block;
 		    vertical-align: middle;
@@ -127,10 +137,10 @@
 				    white-space: nowrap;
 				    vertical-align: baseline;
 				    border-radius: 999px;
-				    background-color: #ff3100;
+				    background-color: @color_icon_sale;
 				    border: 1px dashed #fff;
-				    -webkit-box-shadow: 0 0 0 2px #ff3100;
-				    box-shadow: 0 0 0 2px #ff3100;
+				    -webkit-box-shadow: 0 0 0 2px  @color_icon_sale;
+				    box-shadow: 0 0 0 2px @color_icon_sale;
 				}
 				.deal-about {
 					left: 0 !important;
@@ -140,7 +150,7 @@
 				}
 				.rating {
 					margin-bottom: 10px !important;
-				    color: #ff3100;
+				    color: @color_icon_sale;
 				}
 				.rating-stars {
 					cursor: pointer;

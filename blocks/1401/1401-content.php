@@ -25,9 +25,9 @@
 			    </div><!-- End Navbar Header -->
 			    <!-- Navbar Top Menu -->
 		        <div id="nav-top-menu" class="collapse menu-content">
-			        <ul class="menu nav navbar-nav">
+			        <ul class="menu nav navbar-nav panel-group" id="accordion">
 			            <li class="active"><a class="item-menu" href="#">Home</a></li>
-			            <li class="dropdown-mega-menu">
+			            <li class="dropdown-mega-menu panel panel-default">
 			          		<a class="item-menu" data-toggle="collapse" data-parent="#accordion" href="#sub-1">Deals<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
 			          		<div class="mega-menu collapse" id="sub-1">
 	                            <div class="row">
@@ -99,7 +99,7 @@
 	                            </div>
 	                        </div>
 			          	</li>
-			          	<li>
+			          	<li class="panel panel-default">
 			          		<a class="item-menu" data-toggle="collapse" data-parent="#accordion" href="#sub-2">Coupons<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
 			          		<ul id="sub-2" class="sub-menu list-unstyled collapse">
 				                <li><a href="#">Grid View</a></li>
@@ -107,7 +107,7 @@
 				                <li><a href="#">List View</a></li>
 				            </ul>
 			          	</li>
-			          	<li>
+			          	<li class="panel panel-default">
 			          		<a class="item-menu" data-toggle="collapse" data-parent="#accordion" href="#sub-3">Stores<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
 			          		<ul id="sub-3" class="collapse sub-menu list-unstyled">
 				                <li><a href="#">Stores Search</a></li>
@@ -116,42 +116,42 @@
 				                <li><a href="#">Store Single 2</a></li>
 				            </ul>
 			          	</li>
-			          	<li>
+			          	<li class="panel panel-default">
 			          		<a class="item-menu" data-toggle="collapse" data-parent="#accordion" href="#sub-4">Contact Us<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
 			          		<ul id="sub-4" class="collapse sub-menu list-unstyled">
 				                <li><a href="#">Contact Us 1</a></li>
 				                <li><a href="#">Contact Us 2</a></li>
 				            </ul>
 			          	</li>
-			          	<li>
+			          	<li class="panel panel-default">
 			          		<a class="item-menu" data-toggle="collapse" data-parent="#accordion" href="#sub-5">Blog<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
-			          		<ul id="sub-5" class="sub-menu list-unstyled collapse">
-				                <li>
-				                	<a data-toggle="collapse" data-parent="#accordion" href="#sub-5-1">Classic View<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+			          		<ul id="sub-5" class="sub-menu list-unstyled collapse panel-group">
+				                <li class="panel panel-default">
+				                	<a data-toggle="collapse" data-parent="#sub-5" href="#sub-5-1">Classic View<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
 				                	<ul class="list-unstyled sub-sub-menu collapse" id="sub-5-1">
 						                <li><a href="#">Right Sidenar</a></li>
 						                <li><a href="#">Left Sidebar</a></li>
 						                <li><a href="#">Full Width</a></li>
 						            </ul>
 				                </li>
-				                <li>
-				                	<a data-toggle="collapse" data-parent="#accordion" href="#sub-5-2">Grid View<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+				                <li class="panel panel-default">
+				                	<a data-toggle="collapse" data-parent="#sub-5" href="#sub-5-2">Grid View<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
 				                	<ul class="list-unstyled sub-sub-menu collapse" id="sub-5-2">
 						                <li><a href="#">3 Columns</a></li>
 						                <li><a href="#">2 Columns</a></li>
 						                <li><a href="#">Right Sidebar</a></li>
 						            </ul>
 				                </li>
-				                <li>
-				                	<a data-toggle="collapse" data-parent="#accordion" href="#sub-5-3">List View<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+				                <li class="panel panel-default">
+				                	<a data-toggle="collapse" data-parent="#sub-5" href="#sub-5-3">List View<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
 				                	<ul class="list-unstyled collapse" id="sub-5-3">
 						                <li><a href="#">Right Sidenar</a></li>
 						                <li><a href="#">Left Sidebar</a></li>
 						                <li><a href="#">Full Width</a></li>
 						            </ul>
 				                </li>
-				                <li>
-				                	<a data-toggle="collapse" data-parent="#accordion" href="#sub-5-4">Blog Single<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+				                <li class="panel panel-default">
+				                	<a data-toggle="collapse" data-parent="#sub-5" href="#sub-5-4">Blog Single<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
 				                	<ul class="list-unstyled sub-sub-menu collapse" id="sub-5-4">
 						                <li><a href="#">Standard Post</a></li>
 						                <li><a href="#">Gallery Post</a></li>
@@ -164,40 +164,40 @@
 				                </li>
 				            </ul>
 			          	</li>
-			          	<li>
+			          	<li class="panel panel-default">
 			          		<a class="item-menu" data-toggle="collapse" data-parent="#accordion" href="#sub-6">Pages<span class="indicator"><i class="fa fa-angle-down"></i></span></a>
 			          		<ul id="sub-6" class="sub-menu list-unstyled collapse">
-				                <li><a href="#">Home Default</a></li>
-				                <li><a href="#">Sign In</a></li>
-				                <li><a href="#">Sign Up</a></li>
-				                <li><a href="#">404 Page</a></li>
-				                <li><a href="#">FAQ Page</a></li>
-				                <li><a href="#">Cart Page</a></li>
-				                <li>
-				                	<a data-toggle="collapse" data-parent="#accordion" href="#sub-6-1">Checkout<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+				                <li class="panel panel-default"><a href="#">Home Default</a></li>
+				                <li class="panel panel-default"><a href="#">Sign In</a></li>
+				                <li class="panel panel-default"><a href="#">Sign Up</a></li>
+				                <li class="panel panel-default"><a href="#">404 Page</a></li>
+				                <li class="panel panel-default"><a href="#">FAQ Page</a></li>
+				                <li class="panel panel-default"><a href="#">Cart Page</a></li>
+				                <li class="panel panel-default">
+				                	<a data-toggle="collapse" data-parent="#sub-6" href="#sub-6-1">Checkout<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
 				                	<ul class="list-unstyled sub-sub-menu collapse" id="sub-6-1">
 						                <li><a href="#">Checkout method</a></li>
 						                <li><a href="#">Billing Information</a></li>
 						                <li><a href="#">Payment Information</a></li>
 						            </ul>
 				                </li>
-				                <li>
-				                	<a data-toggle="collapse" data-parent="#accordion" href="#sub-6-2">Contact Us<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+				                <li class="panel panel-default">
+				                	<a data-toggle="collapse" data-parent="#sub-6" href="#sub-6-2">Contact Us<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
 				                	<ul class="list-unstyled sub-sub-menu collapse" id="sub-6-2">
 						                <li><a href="#">Contact Us 1</a></li>
 						                <li><a href="#">Contact Us 2</a></li>
 						            </ul>
 				                </li>
-				                <li>
-				                	<a data-toggle="collapse" data-parent="#accordion" href="#sub-6-3">Deals Pages<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+				                <li class="panel panel-default">
+				                	<a data-toggle="collapse" data-parent="#sub-6" href="#sub-6-3">Deals Pages<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
 				                	<ul class="list-unstyled sub-sub-menu collapse" id="sub-6-3">
 						                <li><a href="#">Grid View</a></li>
 						                <li><a href="#">List View</a></li>
 						                <li><a href="#">Deal Single</a></li>
 						            </ul>
 				                </li>
-				                <li>
-				                	<a data-toggle="collapse" data-parent="#accordion" href="#sub-6-4">Coupons Pages<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
+				                <li class="panel panel-default">
+				                	<a data-toggle="collapse" data-parent="#sub-6" href="#sub-6-4">Coupons Pages<span class="indicator"><i class="fa fa-angle-right"></i></span></a>
 				                	<ul class="list-unstyled sub-sub-menu collapse" id="sub-6-4">
 						                <li><a href="#">Grid View</a></li>
 						                <li><a href="#">Grid With Sidebar</a></li>

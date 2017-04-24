@@ -12,6 +12,7 @@
 ?>
 
 <div class="type-1400">
+   <!-- Header -->
    <header>
    		<div class="header-top">
    			<div class="container">
@@ -26,7 +27,7 @@
    						<ul class="list-inline pull-right">
    							<li>
    								<a href="#"><i class="fa fa-flag-en"></i>English <i class="fa fa-caret-down"></i></a>
-   								<ul class="list-unstyled sub-top-menu">
+   								<ul class="list-unstyled sub-top-menu text-left">
    									<li>
 		   								<a href="#"><i class="fa fa-flag-en"></i>English</a>
 		   							</li>
@@ -37,7 +38,7 @@
    							</li>
    							<li>
    								<a href="#"><i class="fa fa-usd"></i>USD <i class="fa fa-caret-down"></i></a>
-   								<ul class="list-unstyled sub-top-menu">
+   								<ul class="list-unstyled sub-top-menu text-left">
    									<li><a href="#">USD - US Dollar</a></li>
                               <li><a href="#">EUR - Euro</a></li>
                               <li><a href="#">CNY - Chinese Yuan</a></li>
@@ -82,7 +83,7 @@
                            </form>
                         </div>
                         <div class="col-sm-4 col-xs-12 cart right">
-                           <div class="header-cart">
+                           <div class="header-cart text-left">
                               <a href="#">
                                  <span class="lnr lnr-cart icon"></span>
                                  <div>
@@ -91,7 +92,7 @@
                                  <span class="title">Cart</span>
                               </a>
                            </div>
-                           <div class="header-wishlist">
+                           <div class="header-wishlist text-left">
                               <a href="#">
                                  <span class="icon lnr lnr-heart"></span>
                                  <span class="title">Wish List</span>
@@ -103,6 +104,6 @@
    				</div>
    			</div>
    		</div>
-   </header>
+   </header><!-- End Header -->
 
 </div>

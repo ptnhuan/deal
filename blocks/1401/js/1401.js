@@ -1,5 +1,4 @@
-
-$(function() {
+$( document ).ready(function() {
     if ($(window).width() < 992) {
         $('#nav-top-menu').addClass("collapse");
         $('.menu').removeClass("navbar-nav");
@@ -18,5 +17,4 @@ $(function() {
             $('.menu').addClass("navbar-nav");
         }
     });
-}); 
-
+});

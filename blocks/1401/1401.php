@@ -16,11 +16,11 @@
     <link href="css/1401.css" rel="stylesheet" type="text/css"/>
     <script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
     <script src="js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="js/1401.js" type="text/javascript"></script>
 
 </head>
 <body style="background: rgb(233,235,238)">
     <div style="height: 50px;"></div>
     <?php include './1401-content.php'; ?>
 </body>
-<script src="js/1401.js" type="text/javascript"></script>
 </html>
